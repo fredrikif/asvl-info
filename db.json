@@ -1,5 +1,5 @@
 {
-  "aktivitetsplikt": {
+  "AKTIVITETSPLIKT": {
     "info": {
       "helsedirektoratet_2018": {
         "url": "https://helsedirektoratet.no/retningslinjer/sykmelderveileder/seksjon?Tittel=aktivitetskravet-erklering-om-aktivitet-10995",
@@ -99,7 +99,7 @@
       }
     }
   },
-  "kvalifiseringsprogram": {
+  "KVALIFISERINGSPROGRAMMET": {
     "info": {
       "navs_informasjon": {
         "url": "https://www.nav.no/no/Person/Flere+tema/Sosiale+tjenester/Kvalifiseringsprogrammet#chapter-1",
@@ -113,6 +113,17 @@
           "Færre registrert som mottakere av AAP (17 til 12%), og sosialhjelp (50 til 38%). ",
           "Finner større overgang fra stønad til arbeid for samtlige grupper: over og under 25, ",
           "norskfødte og ikke-norskfødte (korrelasjon, ikke kausalitet). "
+        ]
+      },
+      "forslag_lovendring_kvp_2018": {
+        "url": "https://www.regjeringen.no/contentassets/74dbfc177f88466683c910dc6cab95e1/horingsnotat-200318.pdf",
+        "sammendrag": [
+          "Forslag fra regjeringen om endring av lovverket rundt kvalifiseringsprogrammet. ",
+          "Ønsker løsere rammer rundt deltakelse, samt fjerning av hinder for å delta i nytt ",
+          "kvalifiseringsprogram, dersom vilkårene er oppfylt ved et senere tidspunkt. ",
+          "Større fleksibilitet rundt fravær, ved fravær uten kvalifiseringsstønad, ",
+          "for eksempel ved arbeidsutprøving, kortere fengselsstraff, omsorg av barn. ",
+          "Økte muligheter for gjennomføring av ekstern utdanning, opplæring, og læretid."
         ]
       }
     },
@@ -138,6 +149,54 @@
           "har vist mer enn moderate sysselsettingseffekter. Uvisst om KVP vil fungere (2011). ",
           "Konkluderer at ved riktig tidsbruk, altså ute i virksomheter, slik at tilrettelegging, ",
           "og individuell oppfølging i ordinært arbeidsliv blir en del av sosialfaglig innsats. "
+        ]
+      },
+      "helsetilsynet_kvalifisert_til_kvalifisering_2015": {
+        "url": "https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2015/helsetilsynetrapport2_2015.pdf",
+        "sammendrag": [
+          "Rapport om KVP fra helsetilsynet, viser lovbrudd fra NAV i 76 av 92 kommuner (90 NAV-kontor), ",
+          "knyttet til informasjon, rekruttering, innhold i programmet, og oppfølging av deltaker. ",
+          "I nesten halvparten var ikke søkers situasjon godt nok kartlagt ved søknad til KVP. ",
+          "Mangel på individuell tilfredsstillende tilpassing i ca halvparten av kommunene, ",
+          "standardiserte kurs eller tiltak som ikke samsvarer med deltakerens behov. Ofte for lite obligatorisk ",
+          "aktivitet per uke. Problematisk om KVP ikke tilpasses tilstrekkelig, og 2 års-perioden ",
+          "blir brukt opp uten at bruker har fått utbytte, rettigheten til KVP er da oppbrukt, ",
+          "og kan ikke kreves på et senere tidspunkt. "
+        ]
+      }
+    }
+  },
+  "LÆREKANDIDATORDNINGEN": {
+    "info": {
+      "udir_beskrivelse": {
+        "url": "https://www.udir.no/utdanningslopet/videregaende-opplaring/andre-varianter/larekandidatordning/",
+        "sammendrag": [
+          "Lærekandidatordningen er for de som ønsker videregående opplæring ",
+          "i bedrift, men som ikke har forutsetninger for å nå kravene til fag- og ",
+          "svenneprøven. Grunnkompetanse som kan oppnås ved individuelt tilpasset opplæring, ",
+          "og kan bygges videre til yrkeskompetanse."
+        ]
+      }
+    },
+    "studier": {
+      "jeg_vet_ikke_hva_alternativet_skulle_vært": {
+        "url": "https://brage.bibsys.no/xmlui/bitstream/handle/11250/2500663/NIFUrapport2018-8.pdf?sequence=1&isAllowed=y",
+        "sammendrag": [
+          "Evaluering av lærekandidatordningen fra NIFU, 2018, bestilt av udir. ",
+          "Fant svært positive holdninger til lærekandidatordningen, både i form av ",
+          "at det er en ordning vi trenger, og må beholde. Variasjon fra 13 til 1.6 ",
+          "prosent lærlinger i ordningen per fylke, hhv Østfold og Oslo. Uklart hvem ",
+          "som faktisk er målgruppen, defineres ulikt mellom fylkeskommunene, noen ",
+          "har eksakte kriterier for hvem som kan bli lærekandidat, andre har generelle ",
+          "retningslinjer, mens noen har ingen retningslinjer i det hele tatt. ",
+          "Uenighet ikke bare blant fylkeskommunene, men også blant LO, NHO, og Utdanningsforbundet ",
+          "om hvem som faktisk er målgruppen. NHO ønsker bred inkludering, mens LO og ",
+          "Utdanningsforbundet ønsker en smalere målgruppe, hvor kun de som ikke kan oppnå ",
+          "fagbrev får innpass i ordningen. Fra 2010, 2011, og 2012 kullene av totalt 1753 ",
+          "lærekandidater, var det per juni 2017 kun 15 som hadde fagbrev, viser dermed at ",
+          "ordningen ikke er en vei til fagbrev. Lærekandidatordningen viser seg å passe best ",
+          "for elever med svake prestasjoner på ungdomsskolen, dårligere resultater for elever ",
+          "med gode karaktergrunnlag fra ungdomsskolen. "
         ]
       }
     }
