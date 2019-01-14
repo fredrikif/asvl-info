@@ -7,8 +7,9 @@ Timer -   beskrivelse
 1.0   -   10.01.19, mer aktivitetsplikt, bedre sammendrag
 1.0   -   11.01.19, kvalifiseringsprogrammet
 1.0   -   12.01.19, kvp, lærekandidatordningen
+1.5   -   14.01.19, lærekandidatordningen, vta
 
 
 -------------------------------------------------
 Totalt:
-6.5    
+8    
