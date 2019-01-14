@@ -1,5 +1,5 @@
 {
-  "AKTIVITETSPLIKT": {
+  "Aktivitetsplikt": {
     "info": {
       "helsedirektoratet_2018": {
         "url": "https://helsedirektoratet.no/retningslinjer/sykmelderveileder/seksjon?Tittel=aktivitetskravet-erklering-om-aktivitet-10995",
@@ -99,7 +99,7 @@
       }
     }
   },
-  "KVALIFISERINGSPROGRAMMET": {
+  "Kvalifiseringsprogrammet": {
     "info": {
       "navs_informasjon": {
         "url": "https://www.nav.no/no/Person/Flere+tema/Sosiale+tjenester/Kvalifiseringsprogrammet#chapter-1",
@@ -166,7 +166,7 @@
       }
     }
   },
-  "LÆREKANDIDATORDNINGEN": {
+  "Lærekandidatordningen": {
     "info": {
       "udir_beskrivelse": {
         "url": "https://www.udir.no/utdanningslopet/videregaende-opplaring/andre-varianter/larekandidatordning/",
@@ -197,6 +197,66 @@
           "ordningen ikke er en vei til fagbrev. Lærekandidatordningen viser seg å passe best ",
           "for elever med svake prestasjoner på ungdomsskolen, dårligere resultater for elever ",
           "med gode karaktergrunnlag fra ungdomsskolen. "
+        ]
+      }
+    }
+  },
+  "Varig tilrettelagt arbeid": {
+    "info": {
+      "NAVs beskrivelse": {
+        "url": "https://www.nav.no/no/Person/Arbeid/Oppfolging+og+tiltak+for+a+komme+i+jobb/Tiltak+for+a+komme+i+jobb/Relatert+innhold/varig-tilrettelagt-arbeid",
+        "sammendrag": [
+          "NAVs beskrivelse og informasjon om varig tilrettelagt arbeid - VTA. ",
+          "For de med uføretrygd som har behov for arbeid i skjermet virksomhet, ",
+          "kan få tilbud om VTA tilpasset ens behov. "
+        ]
+      },
+      "Regjeringen: historisk høyt nivå på ordningen med VTA": {
+        "url": "https://www.regjeringen.no/no/aktuelt/historisk-hoyt-niva-pa-ordningen-med-varig-tilrettelagt-arbeid-vta/id2601088/",
+        "sammendrag": [
+          "Regjeringen har økt antall plasser for varig tilrettelagt arbeid og var ",
+          "ved mai i 2018 var det totalt over 10.000 uføretrygdede med et slikt tilbud. ",
+          "'Ambisjon om at så mange som mulig skal få delta i arbeidslivet og bruke evnene ",
+          "sine', sa arbeids- og sosialminister Anniken Hauglie. Antallet plasser for VTA ",
+          "har hatt stabil økning de siste årene. "
+        ]
+      }
+    },
+    "studier": {
+      "Behovet for varig tilrettelagt arbeid": {
+        "url": "http://www.hioa.no/content/download/53400/809899/file/r2012-14.pdf",
+        "sammendrag": [
+          "Rapport fra 2012, viser at både tiltaksarrangører, kommuner, og NAV, ",
+          "forventer at behovet for VTA vil øke. Forventet økning på 20 til 50 prosent ",
+          "i VTA i skjermet virksomhet de neste 5 årene, altså fram til 2017. I 2010 var ",
+          "antall deltakere i VTA på ~8.700, i 2018 over 10.000. Ønske om flere plasser i ",
+          "både skjermet og ordinær virksomhet. Lavest udekket behov i småbyer / tettsteder. ",
+          "92 prosent var i skjermet virksomhet, og 8 prosent var i ordinær virksomhet. "
+        ]
+      },
+      "'De har jo uansett uførepensjon'": {
+        "url": "https://www.arbeidoginkludering.no/siteassets/fafo-rapport-vta.pdf",
+        "sammendrag": [
+          "Rapport fra Arbeid og Inkludering om varig tilrettelagt arbeid, fra 2008, ",
+          "bestilt av arbeids- og inkluderingsdepartementet. Rapporten går i hovedsak ",
+          "ut på om VTA bidrar til å utvikle deltakernes ressurser gjennom kvalifisering ",
+          "og tilrettelagte oppgaver, om deltakernes muligheter for ordinært arbeid økes, ",
+          "hvordan man kan øke andelen til overgang i ordinært arbeid, og VTA-deltakeres ",
+          "kjennetegn. Godt arbeidsmiljø og lavt sykefravær tyder på et vellykket vedtak. ",
+          "VTA bidrar til å redusere passitivitet og inaktivitet hos deltakerne. ",
+          "Svakhet ved tilrettelegging for den enkelte deltaker, produksjonskrav, ",
+          "finansiering, og manglende oppfølging fra NAV lokalt. "
+        ]
+      },
+      "Sosial bakgrunn, utdanning, arbeid og stønader til personer under 30 år med nedsatt arbeidsevne": {
+        "url": "https://brage.bibsys.no/xmlui/bitstream/handle/11250/2559147/Sosial%2bbakgrunn%252C%2butdanning%252C%2barbeid%2bog%2bst%25C3%25B8nader.pdf",
+        "sammendrag": [
+          "Rapport fra 2018 om personer under 30 år med nedsatt arbeidsevne. Per mars 2018 ",
+          "var det ca 190.000 personer i Norge registrert med nedsatt arbeidsevne, hvor 22 prosent ",
+          "av disse var under 30 år. Dvs ca 5 prosent av alle mellom 18 og 29 år. ",
+          "Varig tilrettelagt arbeid som tiltak er det tiltaket hvor brukere i størst grad ",
+          "ender opp på trygd, men som tiltak har VTA en annen og mer varig nedsatt målgruppe ",
+          "enn andre tiltak, som for eksempel arbeidspraksis, oppfølging, eller opplæring. "
         ]
       }
     }
