@@ -8,8 +8,9 @@ Timer -   beskrivelse
 1.0   -   11.01.19, kvalifiseringsprogrammet
 1.0   -   12.01.19, kvp, lærekandidatordningen
 1.5   -   14.01.19, lærekandidatordningen, vta
+1.0   -   20.01.19, oppsett web, struktur
 
 
 -------------------------------------------------
 Totalt:
-8    
+9    
