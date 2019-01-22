@@ -7,7 +7,8 @@ const renderStudyInfo = (data, studyInfo) => `
     <div class="studyInfo">
       <h3>${studyInfo.name}</h3>
       <a href="${studyInfo.url}">kilde</a>
-      <p> ${studyInfo.description.join("")}
+      <h4>Oppsummering:</h4>
+      <p>${studyInfo.description.join("")}</p>
     </div>
   `
     )
