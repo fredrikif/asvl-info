@@ -1,0 +1,39 @@
+#app,
+#app2 {
+  margin: auto;
+  text-align: center;
+  color: #44338e;
+}
+
+.category {
+  background-color: #f5ffc6;
+  width: 80vw;
+  max-width: 600px;
+  margin: 0 auto 2em;
+  border-radius: 5vw;
+  padding: 1em 0 1em 0;
+}
+
+.studyInfo {
+  margin: auto;
+  max-width: 95%;
+  margin-bottom: 2em;
+  background-color: #e0ffe9;
+  border-radius: 1em;
+}
+
+.dbNav {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.dbNav:hover {
+  color: green;
+  background: #8cfffb;
+}
+
+.navContainer {
+  /* add flex / grid */
+}
