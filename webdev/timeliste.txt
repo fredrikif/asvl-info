@@ -1,0 +1,18 @@
+
+Timer -   beskrivelse
+
+1.5   -   desember 2018, møter hos asvl
+0.5   -   08.01.19, struktur & oppsett, json
+1.5   -   09.01.19, aktivitetsplikt
+1.0   -   10.01.19, mer aktivitetsplikt, bedre sammendrag
+1.0   -   11.01.19, kvalifiseringsprogrammet
+1.0   -   12.01.19, kvp, lærekandidatordningen
+1.5   -   14.01.19, lærekandidatordningen, vta
+1.0   -   20.01.19, oppsett web, struktur
+1.0   -   21.01.19, lærekandidatordningen, praksisbrevkandidat
+
+
+
+-------------------------------------------------
+Totalt:
+10

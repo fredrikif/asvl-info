@@ -231,6 +231,50 @@ export const db = [
           "for elever med svake prestasjoner på ungdomsskolen, dårligere resultater for elever ",
           "med gode karaktergrunnlag fra ungdomsskolen."
         ]
+      },
+      {
+        name: "Kvalifisert, forberedt og motivert (2018)",
+        url:
+          "https://www.regjeringen.no/contentassets/c69184206be24cc49be8dff70088c208/no/pdfs/nou201820180015000dddpdfs.pdf",
+        description: [
+          "Rapport fra Norges offentlige utredninger, om videregående opplæring ",
+          "Er innom lærekandidatordningen i kapittel 8, viser blant annet at ",
+          "lærekandidatene og praksisbrevkandidatene kom bedre ut i arbeidslivet, ",
+          "enn de som hadde avbrutt videregående opplæring. "
+        ]
+      }
+    ]
+  },
+  {
+    name: "Praksisbrevordningen",
+    info: [
+      {
+        name: "UDIRs informasjon om praksisbrevordningen",
+        url:
+          "https://www.udir.no/regelverkstolkninger/opplaring/Fag--og-yrkesopplaring/Praksiskandidatordningen",
+        description: [
+          "Praksisbrevordningen er et toårig opplæringsløp på de yrkesfaglige ",
+          "utdanningsprogrammene. Rettet mot ungdom som har lite motivasjon for ",
+          "ordinær skole, og kan ha utfordringer med å utføre fag- eller svennebrev. ",
+          "Praksisbrevordningen er en mer strukturert og gruppebasert ordning, som ",
+          "ikke er individuelt tilpasset, til motsetning fra lærekandidatordningen. "
+        ]
+      }
+    ],
+    studies: [
+      {
+        name: "Jobb å få?",
+        url:
+          "https://brage.bibsys.no/xmlui/bitstream/handle/11250/280133/NIFUrapport2014-19.pdf?sequence=1",
+        description: [
+          "Rapport fra 2014 om forsøket med praksisbrevordningen. Viser at ",
+          "både praksisbrevkandidater og lærekandidater kommer bedre ut i ",
+          "arbeidsmarkedet enn kandidater som har avbrutt utdanningen. og ",
+          "elever som har hatt spesialundervisning i større grupper. ",
+          "Svært få av kandidatene oppnår fag- eller svennebrev, begge ",
+          "ordninger ser derfor i hovedsak ut til å passe best for unge som ",
+          "ikke sikter mot full yrkeskompetanse. "
+        ]
       }
     ]
   },

@@ -6,9 +6,10 @@ const renderStudyInfo = (data, studyInfo) => `
       studyInfo => `
     <div class="studyInfo">
       <h3>${studyInfo.name}</h3>
-      <a href="${studyInfo.url}">kilde</a>
-      <h4>Oppsummering:</h4>
-      <p>${studyInfo.description.join("")}</p>
+      <a href="${
+        studyInfo.url
+      }" target="_blank" rel="noopener noreferrer">kilde</a>
+      <p><b>Oppsummering:</b> ${studyInfo.description.join("")}</p>
     </div>
   `
     )
