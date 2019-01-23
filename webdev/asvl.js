@@ -1,5 +1,12 @@
 import { db } from "./db.js";
 
+/*
+  Todo: renderStudyInfo crashes app if
+  only contains "info" or "study". Check 
+  if both exist, otherwise pass, 
+  ternary operator fixes this?
+*/
+
 const renderStudyInfo = (data, studyInfo) => `
   ${data[studyInfo]
     .map(
