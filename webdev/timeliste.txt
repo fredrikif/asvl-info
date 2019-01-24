@@ -10,9 +10,12 @@ Timer -   beskrivelse
 1.5   -   14.01.19, lærekandidatordningen, vta
 1.0   -   20.01.19, oppsett web, struktur
 1.0   -   21.01.19, lærekandidatordningen, praksisbrevkandidat
-
+-------------------------------------------------------------------
+10
+-------------------------------------------------------------------
+1.5   -   22.01.19, arbeidsforberedende trening, språktrening / introduksjonsprogrammet
 
 
 -------------------------------------------------
 Totalt:
-10
+11.5

@@ -259,6 +259,19 @@ export const db = [
           "Praksisbrevordningen er en mer strukturert og gruppebasert ordning, som ",
           "ikke er individuelt tilpasset, til motsetning fra lærekandidatordningen. "
         ]
+      },
+      {
+        name: "Lærdommer fra forsøket med praksisbrev i arbeidslivet",
+        url:
+          "https://www.nav.no/systemsider/allePubliserteDokumenter/_attachment/442340?_ts=15775c53910",
+        description: [
+          "Utredning av Nordisk institutt for studier av innovasjon, forskning, ",
+          "og utdanning, fra 2016. Informasjon om praksisbrev som tiltak mot frafall ",
+          "i videregående. 16-åringer får begynne å arbeide i en bedrift, som ansatte. ",
+          "Halvparten fra opprinnelig forsøk med praksisbrev i 2008, hadde fått ",
+          "lærekontrakt etter 2 år - versus 29% av de som startet som ordinære ",
+          "yrkesfagelever i 2008. Viser til store svakheter i ordinær yrkesutdanning. "
+        ]
       }
     ],
     studies: [
@@ -346,6 +359,80 @@ export const db = [
           "Varig tilrettelagt arbeid som tiltak er det tiltaket hvor brukere i størst grad ",
           "ender opp på trygd, men som tiltak har VTA en annen og mer varig nedsatt målgruppe ",
           "enn andre tiltak, som for eksempel arbeidspraksis, oppfølging, eller opplæring. "
+        ]
+      }
+    ]
+  },
+  {
+    name: "Språktrening for innvandrere / introduksjonsprogrammet",
+    info: [
+      {
+        name: "Motvirker eksklusjon",
+        url: "https://kavlifondet.no/2017/04/motvirker-eksklusjon/",
+        description: [
+          "Artikkel fra Kavlifondet om språkopplæring , viser til at ",
+          "man i tillegg til å oppnå viktige språkkunnskaper, kan bli ",
+          "bedre integrert ved å få et større nettverk, og føler seg ",
+          "generelt mer inkludert. "
+        ]
+      },
+      {
+        name: "Katastrofalt resultat av norskopplæring",
+        url:
+          "https://www.nrk.no/norge/listhaug-om-ny-integreringsrapport_-_-katastrofalt-resultat-av-norskopplaering-1.13756289",
+        description: [
+          "NRKs artikkel om Listhaugs kommentar til FAFO-rapporten høsten 2017. ",
+          "Kritisk at det er såpass store forskjeller mellom de ulike kommunene på ",
+          "hvor godt de kan følge opp og gi opplæring til nyankomne innvandrere. "
+        ]
+      }
+    ],
+    studies: [
+      {
+        name: "SSB - Norskopplæring for voksne innvandrere (2018)",
+        url: "https://www.ssb.no/utdanning/statistikker/nopplinnv",
+        description: [
+          "Statistikk fra SSB, viser økning fra 2016 til 2017 i deltakere av ",
+          "norskopplæring for innvandrere, fra 41552 i 2016 til 44165 i 2017. ",
+          "Nedgang i antall asylsøkere i norskopplæring, trolig grunnet økt antall ",
+          "asylsøkere i 2016 vs 2017. "
+        ]
+      },
+      {
+        name: "Introduksjonsprogrammet for nyankomne flyktninger",
+        url:
+          "https://www.duo.uio.no/bitstream/handle/10852/51784/Ferdig-masteroppgave--Gro-Taranr-d.pdf?sequence=1",
+        description: [
+          "Case-studie av introduksjonsprogrammet i Bamle og Stange kommune i perioden ",
+          "2011 til 2015. Målet om at minst 55 prosent av flyktningene i programmet skal ",
+          "gå direkte over i arbeid eller utdanning etter endt program, har ikke blitt nådd. ",
+          "Stange gjorde det bedre enn Bamle, ser ut til å være takket være tilrettelegging ",
+          "for systematisk introduksjonsarbeid via integreringsplan, formaliserte avtaler ",
+          "med arbeidsgivere, og synlige mål for introduksjonsprogrammet. "
+        ]
+      },
+      {
+        name: "En mulighet for kvalifisering",
+        url:
+          "https://www.imdi.no/contentassets/f72d0361d57e4476b6c8bb023e1cf6b4/en-mulighet-for-kvalifisering",
+        description: [
+          "Brukerundersøkelse blant deltakere i introduksjonsprogrammet (2018). ",
+          "Kritikkverdig at til tross for at deltakere har krav på program tilpasset ",
+          "den enkelte ut fra bakgrunn, forutsetninger, kvalifiseringsbehov, og ",
+          "målsetninger, får påfallende lite variasjon i programinnhold. ",
+          "Rapporten viser at mangel på variasjon i tilrettelegging og tilpasning ",
+          "til individuelle behov være nok til å føre til dårlig resultat for deltaker. "
+        ]
+      },
+      {
+        name: "Samarbeid i og etter introduksjonsprogrammet",
+        url:
+          "https://www.ostforsk.no/wp-content/uploads/2018/04/201804_Samarbeid_i_og_etter_introduksjonsprogrammet.pdf",
+        description: [
+          "Rapporten beskriver utprøving av ulike samarbeidsmodeller som integrerer språkpraksis ",
+          "og arbeidstrening, i kommunene Gjøvik, Lillehammer, Ringsaker og Hamar. Dette er andre ",
+          " fase i et treårig prosjekt, og utprøvingen er evaluert og sammenfattet i denne rapporten. ",
+          "I rapporten argumenterer vi for at det i større grad må tilrettelegges for fagretting av introduksjonsprogrammet."
         ]
       }
     ]
