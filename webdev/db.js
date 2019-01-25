@@ -434,6 +434,46 @@ export const db = [
           " fase i et treårig prosjekt, og utprøvingen er evaluert og sammenfattet i denne rapporten. ",
           "I rapporten argumenterer vi for at det i større grad må tilrettelegges for fagretting av introduksjonsprogrammet."
         ]
+      },
+      {
+        name: "What drives language proficiency of immigrants",
+        url: "asvl/language/what-drives-language-proficiency-of-immigrants.pdf",
+        description: [
+          "Studie fra Tyskland (2015), undersøker ulikheter i tilegning av språk hos ",
+          "innvandrere. Finner at det er uproblematisk for barn å lære seg språket, ",
+          "språkferdigheter øker sterkt ved eksponering, og aktiv læring. ",
+          "Høyere lønn og bedre lønnsmuligheter gir insentiver til å investere ",
+          "i læringen av språk. Statsborgerskap er blant alternativene som kan bidra ",
+          "til å oppmuntre læring av nytt språk. Ulemper er blant annet: større ",
+          "lingvistisk barriere mellom morsmål og vertsland øker vansklighetsgrad ",
+          "og pris for læring av språk. "
+        ]
+      },
+      {
+        name: "Language issues in migration and integration: perspectives from teachers and learners",
+        url: "https://esol.britishcouncil.org/sites/default/files/Language_issues_migration_integration_perspectives_teachers_learners.pdf",
+        description: [
+          "Stor rapport fra England av EU i 2014, som et tillegg for å øke læring av ",
+          "fremmedspråk for innvandrere. Fokuserer blant annet på tilnærming med høy ",
+          "grad av deltakernes egne avgjørelser for hva som skal prates om. På denne måten ",
+          "er kommunikasjonen alltid relevant og meningsfull for deltakerne. Legger vekt ",
+          "på ansvar for egen læring og at man finner det meningsfult når man lærer via ",
+          "områder som er relevante for en selv, framfor tilnærming med generelle lærebøker. "
+        ]
+      },
+      {
+        name: "Voksne analfabeter i norskopplæring",
+        url: "https://munin.uit.no/bitstream/handle/10037/4282/thesis.pdf?sequence=2",
+        description: [
+          "Master oppgave fra Universitetet i Tromsø i 2012, handler om voksne innvandrere ",
+          "som er analfabeter, og deres læringssituasjon på norskkurs. Undersøkelsen viser at ",
+          "det er store variasjoner mellom kommunene og det opplæringstilbudet den analfabete ",
+          "deltakeren får. Lang vei å gå fra illiterat til å bli literat, og det er viktig at ",
+          "opplæringssystemet har kunnskap om hva det innebærer å være illiterat og hvordan ",
+          "opplæringen kan sikres med god kvalitet. Stor fordel ved bruk av morsmålslærer, ",
+          "eller morsmålsassisten, for å kunne lettere knytte konsepter og begreper opp mot ",
+          "fremmedspråket og morsmålet. "
+        ]
       }
     ]
   }

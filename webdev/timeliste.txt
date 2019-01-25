@@ -14,8 +14,8 @@ Timer -   beskrivelse
 10
 -------------------------------------------------------------------
 1.5   -   22.01.19, arbeidsforberedende trening, språktrening / introduksjonsprogrammet
-
+1.0   -   23.01.19, språktrening og integrering hos innvandrere  
 
 -------------------------------------------------
 Totalt:
-11.5
+12.5
