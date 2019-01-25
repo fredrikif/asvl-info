@@ -7,24 +7,9 @@ import { db } from "./db.js";
   ternary operator fixes this?
 */
 
-const renderStudyInfo = (data, studyInfo) => `
-  ${data[studyInfo]
-    .map(
-      studyInfo => `
-    <div class="studyInfo">
-      <h3>${studyInfo.name}</h3>
-      <a href="${
-        studyInfo.url
-      }" target="_blank" rel="noopener noreferrer">kilde</a>
-      <p><b>Oppsummering:</b> ${studyInfo.description.join("")}</p>
-    </div>
-  `
-    )
-    .join("")}
-`;
-
 const renderNav = db => `
   <div id="toTheTop" class="navContainer">
+  <h1>Navigasjon: </h1>
   ${db
     .map(
       data => `
@@ -33,6 +18,22 @@ const renderNav = db => `
     )
     .join("")}
   </div>
+`;
+
+const renderStudyInfo = (data, studyInfo) => `
+  ${data[studyInfo]
+    .map(
+      studyInfo => `
+    <div class="studyInfo">
+      <h3>${studyInfo.name}</h3>
+      <b>Kilde:</b> <a href="${
+        studyInfo.url
+      }" target="_blank" rel="noopener noreferrer">${studyInfo.name}</a>
+      <p><b>Oppsummering:</b> ${studyInfo.description.join("")}</p>
+    </div>
+  `
+    )
+    .join("")}
 `;
 
 document.getElementById("app").innerHTML = `

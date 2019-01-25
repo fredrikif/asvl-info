@@ -50,7 +50,7 @@ export const db = [
       },
       {
         name: "Gudbrandsdølen Dagningen - Ringsaker aktivitetsplikt",
-        url: "asvl/aktivitetsplikt/gd_ringsaker",
+        url: "asvl/aktivitetsplikt/gd_ringsaker.pdf",
         description: [
           "Nyhetsartikkel fra GD om aktivitetsplikt i Ringsaker. ",
           "70 til 85 prosent av deltakerne i Ringsaker har fra 2016 kommet seg ut ",
