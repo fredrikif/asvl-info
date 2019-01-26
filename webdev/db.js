@@ -27,7 +27,7 @@ export const db = [
         ]
       },
       {
-        name: "NAVS erfaringer 2018, Klassekampens oppsummering",
+        name: "NAVs erfaringer 2018, Klassekampens oppsummering",
         url: "https://www.klassekampen.no/article/20181214/ARTICLE/181219949",
         description: [
           "Kritisk oppsummeringen av rapporten om unge sosialhjelpsmottakere. ",
