@@ -450,8 +450,10 @@ export const db = [
         ]
       },
       {
-        name: "Language issues in migration and integration: perspectives from teachers and learners",
-        url: "https://esol.britishcouncil.org/sites/default/files/Language_issues_migration_integration_perspectives_teachers_learners.pdf",
+        name:
+          "Language issues in migration and integration: perspectives from teachers and learners",
+        url:
+          "https://esol.britishcouncil.org/sites/default/files/Language_issues_migration_integration_perspectives_teachers_learners.pdf",
         description: [
           "Stor rapport fra England av EU i 2014, som et tillegg for å øke læring av ",
           "fremmedspråk for innvandrere. Fokuserer blant annet på tilnærming med høy ",
@@ -463,7 +465,8 @@ export const db = [
       },
       {
         name: "Voksne analfabeter i norskopplæring",
-        url: "https://munin.uit.no/bitstream/handle/10037/4282/thesis.pdf?sequence=2",
+        url:
+          "https://munin.uit.no/bitstream/handle/10037/4282/thesis.pdf?sequence=2",
         description: [
           "Master oppgave fra Universitetet i Tromsø i 2012, handler om voksne innvandrere ",
           "som er analfabeter, og deres læringssituasjon på norskkurs. Undersøkelsen viser at ",
@@ -473,6 +476,99 @@ export const db = [
           "opplæringen kan sikres med god kvalitet. Stor fordel ved bruk av morsmålslærer, ",
           "eller morsmålsassisten, for å kunne lettere knytte konsepter og begreper opp mot ",
           "fremmedspråket og morsmålet. "
+        ]
+      }
+    ]
+  },
+  {
+    name: "Individual Placement and Support - IPS & Supported Employment - SE",
+    info: [
+      {
+        name: "What is IPS?",
+        url: "https://ipsworks.org/index.php/what-is-ips/",
+        description: [
+          "Både generell og spesifikk beskrivelse om IPS, fra IPSworks.org. ",
+          "IPS hjelper folk med alvorlige psykiske utfordringer til å være i ",
+          "tilrettelagt arbeid. IPS er basert på 8 prinsipper som blir nærmere ",
+          "forklart. "
+        ]
+      },
+      {
+        name: "IPS - Opplæring av IPS konsulenter (Arbeid og Inkludering)",
+        url:
+          "https://www.arbeidoginkludering.no/contentassets/63c57f2a1b654476858cdb2faed57158/ips-opplaringavips-konsulenter.pdf",
+        description: [
+          "Arbeid og Inkludering sitt opplæringsskriv for IPS-konsulenter, i samarbeid ",
+          "med NAV, fra 2011. "
+        ]
+      },
+      {
+        name: "Effekter av Supported Employment (og IPS)",
+        url:
+          "https://www.nav.no/no/NAV+og+samfunn/Kunnskap/Analyser+fra+NAV/Arbeid+og+velferd/Arbeid+og+velferd/_attachment/498034",
+        description: [
+          "NAVs rapport om Supported Employment (SE) og Individual Placement Support ",
+          "(IPS), fra 2017, basert på rapport fra FHI. IPS gir trolig dobbelt så stor ",
+          "sannsynlighet for å komme i vanlig arbeid for personer med alvorlige ",
+          "psykiske lidelser. Ser også positive effekter på tid i arbeid, inntekt, ",
+          "og kostnadseffektivitet. Uvisst om IPS gir effekt på livskvalitet. Det er ",
+          "usikkert om SE har samme effekt som IPS, på grunn av mindre forskning, men ",
+          "det lille som er av resultater peker i samme retning (positivt). "
+        ]
+      }
+    ],
+    studies: [
+      {
+        name: "Supported Employment for arbeidssøkere med bistandsbehov",
+        url:
+          "https://fhi.no/globalassets/dokumenterfiler/rapporter/2017/supported-employment-for-arbeidssokere-med-bistandsbehov-rapport-2017-.pdf",
+        description: [
+          "FHI sin rapport om SE og IPS fra 2017. Har inkludert 38 kontrollerte studier ",
+          "i rapporten, hovesaklig fra USA og Europa, med oppfølgingstid på opp til 5 år. ",
+          "Konkluderer med at IPS for personer med psykiske lidelser trolig gir dobbelt så stor ",
+          "sannsynlighet for å komme i vanlig arbeid, sammenlignet med annet tiltak. ",
+          "FHI mener resultatene trolig er overførbare til norsk kontekst. "
+        ]
+      },
+      {
+        name: "Effektevaluering av Individuell jobbstøtte (IPS): Sluttrapport",
+        url:
+          "http://bora.uib.no/bitstream/handle/1956/15564/Sluttrapport%20IPS.pdf",
+        description: [
+          "Studie fra Uni Research Helse i Bergen, 2016. Evaluering av personer med ",
+          "moderate til alvorlige psykiske lidelser i Norge. Positive resultater for ",
+          "både de med moderate, og de med alvorlige psykiske lidelser. En av de første ",
+          "studiene som viser til signifikant bedre livskvalitet, bedre selvopplevd helse, ",
+          "lavere symptomnivå på depresjon, og bedre funksjon ved 12 måneders oppfølging ",
+          "sammenliknet med kontrollgruppen. Gruppen med IPS fikk også signifikant høyere ",
+          "tro på at arbeid var bra for helsa, sammenlignet med kontrollgruppa ved 6 og 12 ",
+          "måneders oppfølging. Ikke realistisk å regne IPS som samfunnsøkonomisk lønnsomt ",
+          "innen tidsvinduet av evalueringen, men hvis sysselsettingen vedvarer vil vedtaket ",
+          "kunne være lønnsomt. "
+        ]
+      },
+      {
+        name:
+          "Effectvieness of Individual Placement and Support for People With Mental Illness in the Netherlands",
+        url:
+          "https://pdfs.semanticscholar.org/aa85/d37671cf0f4aa6160d65e45493cf5278bcb4.pdf",
+        description: [
+          "Nederlandsk studie som fant gode resultater for personer med IPS til å finne og beholde ",
+          "arbeid. Fant ingen direkte effekt fra IPS på mental helse, selvtillit eller livskvalitet, ",
+          "men å være ansatt i ordinære stillinger gav signifikant bedre mental helse, selvtillit, ",
+          "og livskvalitet. "
+        ]
+      },
+      {
+        name: "IPS og smerte",
+        url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5809966/",
+        description: [
+          "Pågående studie på kronisk smerte og IPS i Norge, fra 2018. Ca 30% av Norges ",
+          "befolkning lider av kroniske smerter, som fører til nedsatt livskvalitet ",
+          "og sosioøkonomiske kostnader. I tillegg til de tre hovedpillarene, ",
+          "medisinsk behandling, fysioterapi og trening, og kognitiv terapi, ",
+          "innfører de også en modifisert utgave av IPS som behandling av smertene ",
+          "for å redusere frafall fra arbeidslivet. "
         ]
       }
     ]
