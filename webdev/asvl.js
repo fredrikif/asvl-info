@@ -1,12 +1,5 @@
 import { db } from "./db.js";
 
-/*
-  Todo: renderStudyInfo crashes app if
-  only contains "info" or "study". Check 
-  if both exist, otherwise pass, 
-  ternary operator fixes this?
-*/
-
 const renderNav = db => `
   <div id="toTheTop" class="navContainer">
   <h1>Navigasjon: </h1>
@@ -21,19 +14,24 @@ const renderNav = db => `
 `;
 
 const renderStudyInfo = (data, studyInfo) => `
-  ${data[studyInfo]
-    .map(
-      studyInfo => `
-    <div class="studyInfo">
-      <h3>${studyInfo.name}</h3>
-      <b>Kilde:</b> <a href="${
-        studyInfo.url
-      }" target="_blank" rel="noopener noreferrer">${studyInfo.name}</a>
-      <p><b>Oppsummering:</b> ${studyInfo.description.join("")}</p>
-    </div>
-  `
-    )
-    .join("")}
+  ${
+    data[studyInfo] !== undefined
+      ? `
+      <h2>${studyInfo}:</h2>
+      ${data[studyInfo].map(
+        category => `
+          <div class="${studyInfo}">
+            <h3>${category.name}</h3>
+            <b>Kilde:</b> <a href="${
+              category.url
+            }" target="_blank" rel="noopener noreferrer">${category.name}</a>
+            <p><b>Oppsummering:</b> ${category.description.join("")}</p>
+          </div>
+        `
+      )}
+      `
+      : ``
+  }
 `;
 
 document.getElementById("app").innerHTML = `
@@ -44,8 +42,9 @@ document.getElementById("app").innerHTML = `
     <div class="category">
       <h1 id="${data.name}">${data.name}</h1>
       <a class="dbNav" href="#toTheTop">Toppen av siden</a>
-      ${renderStudyInfo(data, "info")}
-      ${renderStudyInfo(data, "studies")}
+      ${renderStudyInfo(data, "informasjon")}
+      ${renderStudyInfo(data, "studier")}
+      ${renderStudyInfo(data, "metoder")}
     </div>
   `
     )

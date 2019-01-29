@@ -1,13 +1,13 @@
 export const db = [
   {
     name: "Aktivitetsplikt",
-    info: [
+    informasjon: [
       {
         name: "Helsedirektoratet 2018",
         url:
           "https://helsedirektoratet.no/retningslinjer/sykmelderveileder/seksjon?Tittel=aktivitetskravet-erklering-om-aktivitet-10995",
         description: [
-          "Informasjon fra helsedirektoratet om aktivitetsplikten. ",
+          "informasjonrmasjon fra helsedirektoratet om aktivitetsplikten. ",
           "Nevner også om unntak fra aktivitetsplikten, og tilrettelegging."
         ]
       },
@@ -60,7 +60,7 @@ export const db = [
         ]
       }
     ],
-    studies: [
+    studier: [
       {
         name: "Welfare Conditionality - Frisch UiO",
         url: "https://www.frisch.uio.no/docs/PDF/welfare-conditionality.pdf",
@@ -116,12 +116,12 @@ export const db = [
   },
   {
     name: "Kvalifiseringsprogrammet - KVP",
-    info: [
+    informasjon: [
       {
-        name: "NAVs informasjon",
+        name: "NAVs informasjonrmasjon",
         url:
           "https://www.nav.no/no/Person/Flere+tema/Sosiale+tjenester/Kvalifiseringsprogrammet#chapter-1",
-        description: ["NAVs informasjon om kvalifiseringsprogrammet"]
+        description: ["NAVs informasjonrmasjon om kvalifiseringsprogrammet"]
       },
       {
         name: "Hvem starter i kvalifiseringsprogrammet, og kommer de i arbeid",
@@ -149,7 +149,7 @@ export const db = [
         ]
       }
     ],
-    studies: [
+    studier: [
       {
         name: "SSB - Færre avbryter kvalifiseringsprogrammet",
         url:
@@ -183,7 +183,7 @@ export const db = [
           "https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2015/helsetilsynetrapport2_2015.pdf",
         description: [
           "Rapport om KVP fra helsetilsynet, viser lovbrudd fra NAV i 76 av 92 kommuner (90 NAV-kontor), ",
-          "knyttet til informasjon, rekruttering, innhold i programmet, og oppfølging av deltaker. ",
+          "knyttet til informasjonrmasjon, rekruttering, innhold i programmet, og oppfølging av deltaker. ",
           "I nesten halvparten var ikke søkers situasjon godt nok kartlagt ved søknad til KVP. ",
           "Mangel på individuell tilfredsstillende tilpassing i ca halvparten av kommunene, ",
           "standardiserte kurs eller tiltak som ikke samsvarer med deltakerens behov. Ofte for lite obligatorisk ",
@@ -196,7 +196,7 @@ export const db = [
   },
   {
     name: "Lærekandidatordningen",
-    info: [
+    informasjon: [
       {
         name: "Utdanningdirektoratets beskrivelse",
         url:
@@ -209,7 +209,7 @@ export const db = [
         ]
       }
     ],
-    studies: [
+    studier: [
       {
         name: "Jeg vet ikke hva alternativet skulle vært",
         url:
@@ -247,9 +247,9 @@ export const db = [
   },
   {
     name: "Praksisbrevordningen",
-    info: [
+    informasjon: [
       {
-        name: "UDIRs informasjon om praksisbrevordningen",
+        name: "UDIRs informasjonrmasjon om praksisbrevordningen",
         url:
           "https://www.udir.no/regelverkstolkninger/opplaring/Fag--og-yrkesopplaring/Praksiskandidatordningen",
         description: [
@@ -266,7 +266,7 @@ export const db = [
           "https://www.nav.no/systemsider/allePubliserteDokumenter/_attachment/442340?_ts=15775c53910",
         description: [
           "Utredning av Nordisk institutt for studier av innovasjon, forskning, ",
-          "og utdanning, fra 2016. Informasjon om praksisbrev som tiltak mot frafall ",
+          "og utdanning, fra 2016. informasjonrmasjon om praksisbrev som tiltak mot frafall ",
           "i videregående. 16-åringer får begynne å arbeide i en bedrift, som ansatte. ",
           "Halvparten fra opprinnelig forsøk med praksisbrev i 2008, hadde fått ",
           "lærekontrakt etter 2 år - versus 29% av de som startet som ordinære ",
@@ -274,7 +274,7 @@ export const db = [
         ]
       }
     ],
-    studies: [
+    studier: [
       {
         name: "Jobb å få?",
         url:
@@ -293,13 +293,13 @@ export const db = [
   },
   {
     name: "Varig tilrettelagt arbeid - VTA",
-    info: [
+    informasjon: [
       {
         name: "NAVs beskrivelse",
         url:
           "https://www.nav.no/no/Person/Arbeid/Oppfolging+og+tiltak+for+a+komme+i+jobb/Tiltak+for+a+komme+i+jobb/Relatert+innhold/varig-tilrettelagt-arbeid",
         description: [
-          "NAVs beskrivelse og informasjon om varig tilrettelagt arbeid - VTA. ",
+          "NAVs beskrivelse og informasjonrmasjon om varig tilrettelagt arbeid - VTA. ",
           "For de med uføretrygd som har behov for arbeid i skjermet virksomhet, ",
           "kan få tilbud om VTA tilpasset ens behov. "
         ]
@@ -317,7 +317,7 @@ export const db = [
         ]
       }
     ],
-    studies: [
+    studier: [
       {
         name: "Behovet for varig tilrettelagt arbeid",
         url:
@@ -365,7 +365,7 @@ export const db = [
   },
   {
     name: "Språktrening for innvandrere / introduksjonsprogrammet",
-    info: [
+    informasjon: [
       {
         name: "Motvirker eksklusjon",
         url: "https://kavlifondet.no/2017/04/motvirker-eksklusjon/",
@@ -387,7 +387,7 @@ export const db = [
         ]
       }
     ],
-    studies: [
+    studier: [
       {
         name: "SSB - Norskopplæring for voksne innvandrere (2018)",
         url: "https://www.ssb.no/utdanning/statistikker/nopplinnv",
@@ -482,7 +482,7 @@ export const db = [
   },
   {
     name: "Individual Placement and Support - IPS & Supported Employment - SE",
-    info: [
+    informasjon: [
       {
         name: "What is IPS?",
         url: "https://ipsworks.org/index.php/what-is-ips/",
@@ -517,7 +517,7 @@ export const db = [
         ]
       }
     ],
-    studies: [
+    studier: [
       {
         name: "Supported Employment for arbeidssøkere med bistandsbehov",
         url:
@@ -570,6 +570,16 @@ export const db = [
           "innfører de også en modifisert utgave av IPS som behandling av smertene ",
           "for å redusere frafall fra arbeidslivet. "
         ]
+      }
+    ]
+  },
+  {
+    name: "test category",
+    metoder: [
+      {
+        name: "best test is best",
+        url: "best url is best",
+        description: ["best test description is best "]
       }
     ]
   }
