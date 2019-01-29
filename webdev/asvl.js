@@ -18,8 +18,9 @@ const renderStudyInfo = (data, studyInfo) => `
     data[studyInfo] !== undefined
       ? `
       <h2>${studyInfo}:</h2>
-      ${data[studyInfo].map(
-        category => `
+      ${data[studyInfo]
+        .map(
+          category => `
           <div class="${studyInfo}">
             <h3>${category.name}</h3>
             <b>Kilde:</b> <a href="${
@@ -28,7 +29,8 @@ const renderStudyInfo = (data, studyInfo) => `
             <p><b>Oppsummering:</b> ${category.description.join("")}</p>
           </div>
         `
-      )}
+        )
+        .join("")}
       `
       : ``
   }
