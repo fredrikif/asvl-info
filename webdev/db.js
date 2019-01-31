@@ -361,6 +361,17 @@ export const db = [
           "enn andre tiltak, som for eksempel arbeidspraksis, oppfølging, eller opplæring. "
         ]
       }
+    ],
+    metoder: [
+      {
+        name: "NAVs kravspesifikasjon for tiltak i skjermede virksomheter",
+        url: "https://www.nav.no/_attachment/87667",
+        description: [
+          "NAVs krav til VTA, arbeidspraksis i skjermet virksomhet (APS), arbeid med bistand (AMB) ",
+          "og kvalifisering og tilrettelagt arbeid i AMB. Kravspesifikasjonen omhandler krav til ",
+          "tiltaksarrangør vedrørende rutiner, faglig innhold og metoder, og rapportering. "
+        ]
+      }
     ]
   },
   {
@@ -484,6 +495,28 @@ export const db = [
     name: "Individual Placement and Support - IPS & Supported Employment - SE",
     informasjon: [
       {
+        name: "Innføring i Individual placement and support / IPS",
+        url:
+          "https://www.nav.no/no/Person/Arbeid/Oppfolging+og+tiltak+for+a+komme+i+jobb/Relatert+informasjon/_attachment/310714",
+        description: [
+          "NAVs innføring i IPS, som er en systematisk måte å jobbe på for å oppnå ",
+          "ordinært arbeid for mennesker med alvorlige psykiske lidelser. "
+        ]
+      },
+      {
+        name: "Om IPS - IPS-Norge",
+        url: "http://ips-norge.no/om%20ips.html",
+        description: [
+          "IPS-Norges beskrivelse av IPS-modellen. IPS er et standardisert ",
+          "oppfølgingsprogram som bygger på den grunnleggende tenkningen i ",
+          "Supported Employment (SE). Utviklet over mange år via evidensbaserte ",
+          "metoder, for å integrere personer med langvarige og alvorlige psykiske ",
+          "lidelser i ordinært arbeid. Tanken bak IPS er at alle med alvorlige ",
+          "psykiske lidelser skal ha mulighet til en vanlig jobb i det ordinære ",
+          "arbeidsmarkedet, gitt riktig type jobb og arbeidsmiljø. "
+        ]
+      },
+      {
         name: "What is IPS?",
         url: "https://ipsworks.org/index.php/what-is-ips/",
         description: [
@@ -571,15 +604,141 @@ export const db = [
           "for å redusere frafall fra arbeidslivet. "
         ]
       }
+    ],
+    metoder: [
+      {
+        name: "NAVs manualer for igangsetting av IPS-metodikken",
+        url:
+          "https://www.nav.no/no/Person/Arbeid/Oppfolging+og+tiltak+for+a+komme+i+jobb/Relatert+informasjon/_attachment/332776",
+        description: [
+          "NAVs omfattende manualer for igangsetting av IPS-metodikken, innebærer blant annet: <br/>",
+          "Komme i gang<br/>",
+          "Hvordan bygge et tilbud<br/>",
+          "Hvordan sikre kvalitet<br/>",
+          "Opplæring av IPS-konsulenter<br/>",
+          "Evidens"
+        ]
+      },
+      {
+        name: "Europeiske Union Supported Employment(EUSA)s verktøykasse",
+        url: "asvl/ips/eusetoolkit.pdf",
+        description: [
+          "EUSA ble opprettet for å utvikle Supported Employment i Europa, ettersom forskning har vist ",
+          "manglende konsistens i SE-arbeidet, samt for lite veiledning og opplæringsmateriell for ",
+          "fagpersoner og tiltaksarrangører innen SE. Dette er en omfattende veileder med informasjon ",
+          "om både SE i helhet, og guider for ulike tilnærminger. "
+        ]
+      },
+      {
+        name: "IPS - Kvalitetskala",
+        url:
+          "https://www.arbeidoginkludering.no/contentassets/659b151b0ccb4fcc99ed37800fc744e8/ips-kvalitetskala-5.pdf",
+        description: [
+          "Arbeid og Inkluderings oversettelse av kvalitetsskalaen til IPS, finansiert av arbeids- og ",
+          "velferdsdirektoratet. Skalaen måler i hvilken grad et program følger standardene for ",
+          "evidensbasert praksis innenfor IPS. Støttet av forskning viser høy score i skalaen at ",
+          "implementeringen har høyere suksessrate i form av ansettelser i ordinært arbeidsliv, ",
+          "enn ved lavere score. "
+        ]
+      },
+      {
+        name: "Supported Employment Fidelity Reivew Manual",
+        url:
+          "https://ipsworks.org/wp-content/uploads/2017/08/ips-fidelity-manual-3rd-edition_2-4-16.pdf",
+        description: [
+          "IPS-kvalitetsskalaens veileder fra 2015 i sin helhet, på engelsk. Grundig gjennomgang ",
+          "av hvordan man skal bruke skalaen. Per dags dato (januar 2019) er utgaven fra 2008 den ",
+          "nyeste versjonen av skjemaet. "
+        ]
+      },
+      {
+        name: "IPS-Norges karriereprofil",
+        url: "http://ips-norge.no/onewebmedia/Skjemaer/Karriereprofil.pdf",
+        description: [
+          "IPS-Norges karriereprofil som brukes utfylles av jobbspesialisten i løpet av de første ",
+          "ukene hen jobber med klienten. Omfatter blant annet områder som yrkesmål, utdanning, arbeidserfaring."
+        ]
+      },
+      {
+        name: "IPS-Norges plan for å kontakte arbeidsgivere",
+        url:
+          "http://ips-norge.no/onewebmedia/Skjemaer/Plan%20for%20å%20kontakte%20arbeidsgivere.pdf",
+        description: [
+          "IPS-Norges plan for å kontakte arbeidsgivere for deltakere i IPS. I hovedsak to ulike ",
+          "tilnærminger, med sine fordeler og ulemper: Kontakt med bedrift via jobbspesialist, elelr ",
+          "kontakt med bedrift på egenhånd, hvor jobbspesialisten hjelper til med prosessen i bakgrunnen."
+        ]
+      },
+      {
+        name: "IPS-Norges stillingsbeskrivelse for jobbspesialist",
+        url:
+          "http://ips-norge.no/onewebmedia/Skjemaer/Stillingsbeskrivelse%20for%20jobbspesialist.pdf",
+        description: [
+          "IPS-Norges stillingsbeskrivelse for stilling som jobbspesialist gir innsyn i hvordan ",
+          "jobbspesialistene arbeider for å gjennomføre vellykkede IPS-program. "
+        ]
+      },
+      {
+        name: "IPS-Norges stillingsbeskrivelse for metodeveileder",
+        url:
+          "http://ips-norge.no/onewebmedia/Skjemaer/Stillingsbeskrivelse%20for%20metodeveileder.pdf",
+        description: [
+          "IPS-Norges stillingsbeskrivelse for stilling som metodeveileder gir innsyn i hvordan man kan ",
+          "gjennomføre vellykkede IPS-program, med høy sysselsettingsrate. "
+        ]
+      }
     ]
   },
   {
-    name: "test category",
+    name: "Syns- og språkhemning",
+    informasjon: [
+      {
+        name: "Arbeidsliv og karriere",
+        url:
+          "https://www.blindeforbundet.no/rad-tips-og-rettigheter/arbeidsliv-og-karriere",
+        description: [
+          "Blindeforbudets artikkel om tilrettelegging for svaksynte og blinde. ",
+          "Arbeidsgiver er lovpålagt individuell tilrettelegging, og skal så langt ",
+          "det er mulig forsøke å finne løsninger som gjør at du blir værende i ",
+          "jobben, eller får andre arbeidsoppgaver. "
+        ]
+      }
+    ],
     metoder: [
       {
-        name: "best test is best",
-        url: "best url is best",
-        description: ["best test description is best "]
+        name: "Spesifikke språkvansker og tilrettelegging for arbeidstakere",
+        url:
+          "http://www.statped.no/fagomrader-og-laringsressurser/sprak-og-tale/spesifikke-sprakvansker/grunnskolen/spesifikke-sprakvanskar-hos-vaksne/tilrettelegging-for-arbeidstakarar/",
+        description: [
+          "Statpeds artikkel om tilrettelegging i arbeidslivet for personer med språkvansker. ",
+          "Vanlig tilrettelegging er blant annet: <br/>",
+          " * PC med egen stavekontroll, ordbokfunksjon og talesyntese<br/>",
+          " * Scannerpenn eller scannermus<br/>",
+          " * Elektronisk informasjon, så man kan benytte e-hjelpemidler framfor å lese selv<br/>",
+          " * Avlasting eller hjelp til visse type oppgaver<br/>",
+          " * Tale til tekst-funksjon på nettbrett og smarttelefon"
+        ]
+      },
+      {
+        name: "Skjermleser",
+        url:
+          "https://www.blindeforbundet.no/hjelpemidler-og-produkter/skjermleser",
+        description: [
+          "Blindeforbundets informasjon om skjermleser. Skjermleseren tolker den visuelle ",
+          "informasjonen på skjermen, slik at innholdet kan presenteres via punktskrift i ",
+          "Braille på en leselist, eller ved syntetisk tale. Dette hjelper svaksynte eller ",
+          "blinde med å bruke elektroniske verktøy. "
+        ]
+      },
+      {
+        name: "Leselist",
+        url:
+          "https://www.blindeforbundet.no/hjelpemidler-og-produkter/leselister",
+        description: [
+          "En leselist kan være et godt hjelpemiddel for en synshemmet som behersker ",
+          "punktskrift (Braille). Leselisten konverterer data fra en skjermleser til ",
+          "punktskrift, slik at man kan lese innholdet med hendene framfor øynene. "
+        ]
       }
     ]
   }

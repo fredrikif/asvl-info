@@ -15,8 +15,14 @@ Timer -   beskrivelse
 -------------------------------------------------------------------
 1.5   -   22.01.19, arbeidsforberedende trening, språktrening / introduksjonsprogrammet
 1.0   -   23.01.19, språktrening og integrering hos innvandrere
-1.5   -   25.01.19, IPS & SE, publisering  
+1.5   -   25.01.19, IPS & SE, publisering
+1.0   -   28.01.19, møte, oppsett til metoder
+-------------------------------------------------------------------
+15
+------------------------------------------------------------------- 
+1.5   -   30.01.19, språk & synshemning & metoder
+1.5   -   31.01.19, metode for IPS, VTA
 
--------------------------------------------------
+-------------------------------------------------------------------
 Totalt:
-14
+18
