@@ -195,6 +195,50 @@ export const db = [
     ]
   },
   {
+    name: "Arbeidsforberedende trening - AFT",
+    informasjon: [
+      {
+        name: "NAVs informasjon om AFT",
+        url:
+          "https://www.nav.no/no/Person/Arbeid/Oppfolging+og+tiltak+for+a+komme+i+jobb/Relatert+informasjon/Arbeidsforberedende+trening",
+        description: [
+          "NAVs informasjon om arbeidsforberedende trening. AFT er et tiltak ",
+          "for personer som har behov for å jobbe i et skjermet og tilrettelagt ",
+          "arbeidsmiljø, i en oppstartsfase, før man går over i arbeidstrening ",
+          "hos bedrifter i ordinært arbeidsliv. "
+        ]
+      }
+    ],
+    metoder: [
+      {
+        name: "NAVs kravspesifikasjon for tiltaksarrangører",
+        url: "asvl/aft/kravspesifikasjon_aft_2016.pdf",
+        description: [
+          "NAVs kravspesifikasjon for arbeidsforberedende trening fra 2016. ",
+          "Informasjon og krav til arbeidsplasser som ønsker å drive med AFT. "
+        ]
+      },
+      {
+        name: "Veileder for AFT og VTA, 2016",
+        url: "asvl/aft/veileder_aft_vta_2016.pdf",
+        description: [
+          "NAVs veileder for AFT og VTA fra 2016, beskriver hva som skal til for at ",
+          "en bedrift skal kunne godkjennes for å arrangere tiltakene VTA og AFT. "
+        ]
+      },
+      {
+        name: "Veileder for Grønt Arbeid",
+        url:
+          "https://www.fylkesmannen.no/contentassets/dc032a7f076e426e985c463e92c91089/gront-arbeid---veileder-nav-kontor.pdf",
+        description: [
+          "Grønt arbeid er et arbeidstilbud på gård i regi av NAV, for mennesker med ",
+          "psykiske og/eller rusrelaterte helseproblemer. Veilederen inneholder informasjon ",
+          "om programmet, og gjennomføring. "
+        ]
+      }
+    ]
+  },
+  {
     name: "Lærekandidatordningen",
     informasjon: [
       {
@@ -295,13 +339,21 @@ export const db = [
     name: "Varig tilrettelagt arbeid - VTA",
     informasjon: [
       {
-        name: "NAVs beskrivelse",
+        name: "NAVs beskrivelse av VTA",
         url:
           "https://www.nav.no/no/Person/Arbeid/Oppfolging+og+tiltak+for+a+komme+i+jobb/Tiltak+for+a+komme+i+jobb/Relatert+innhold/varig-tilrettelagt-arbeid",
         description: [
           "NAVs beskrivelse og informasjon om varig tilrettelagt arbeid - VTA. ",
           "For de med uføretrygd som har behov for arbeid i skjermet virksomhet, ",
           "kan få tilbud om VTA tilpasset ens behov. "
+        ]
+      },
+      {
+        name: "NAKUs beskrivelse av VTA",
+        url: "https://naku.no/kunnskapsbanken/varig-tilrettelagt-arbeid-vta",
+        description: [
+          "NAKUs beskrivelse av VTA, med undertema formål og målgruppe, organisering av tiltaket, ",
+          "muligheter for overgang fra VTA til ordinært arbeid, med mer. "
         ]
       },
       {
@@ -370,6 +422,24 @@ export const db = [
           "NAVs krav til VTA, arbeidspraksis i skjermet virksomhet (APS), arbeid med bistand (AMB) ",
           "og kvalifisering og tilrettelagt arbeid i AMB. Kravspesifikasjonen omhandler krav til ",
           "tiltaksarrangør vedrørende rutiner, faglig innhold og metoder, og rapportering. "
+        ]
+      },
+      {
+        name: "Veileder for AFT og VTA, 2016",
+        url: "asvl/aft/veileder_aft_vta_2016.pdf",
+        description: [
+          "NAVs veileder for AFT og VTA fra 2016, beskriver hva som skal til for at ",
+          "en bedrift skal kunne godkjennes for å arrangere tiltakene VTA og AFT. "
+        ]
+      },
+      {
+        name: "VTA bransjestandard",
+        url:
+          "https://www.arbeidoginkludering.no/contentassets/8776984febfe4608b87dc33f255994a2/bransjestandard-vta.pdf",
+        description: [
+          "Arbeid og Inkludering sin bransjestandard for varig tilrettelagt arbeid. ",
+          "Standarden hva som kreves av en bedrift innenfor tiltaket varig tilrettelagt arbeid ",
+          "- VTA. "
         ]
       }
     ]
@@ -501,6 +571,15 @@ export const db = [
         description: [
           "NAVs innføring i IPS, som er en systematisk måte å jobbe på for å oppnå ",
           "ordinært arbeid for mennesker med alvorlige psykiske lidelser. "
+        ]
+      },
+      {
+        name: "NAKUs informasjon om SE og IPS",
+        url: "https://naku.no/kunnskapsbanken/supported-employment",
+        description: [
+          "NAKUs informasjon om Supported Employment og Individual Placement and Support. ",
+          "Inneholder informasjon om historikk, mål og virkemiddel, samt hvordan jobbspesialistene ",
+          "arbeider. "
         ]
       },
       {
