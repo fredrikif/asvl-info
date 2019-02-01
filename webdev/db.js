@@ -7,7 +7,7 @@ export const db = [
         url:
           "https://helsedirektoratet.no/retningslinjer/sykmelderveileder/seksjon?Tittel=aktivitetskravet-erklering-om-aktivitet-10995",
         description: [
-          "informasjonrmasjon fra helsedirektoratet om aktivitetsplikten. ",
+          "informasjon fra helsedirektoratet om aktivitetsplikten. ",
           "Nevner også om unntak fra aktivitetsplikten, og tilrettelegging."
         ]
       },
@@ -91,7 +91,7 @@ export const db = [
         description: [
           "Stor studie fra 2013 til 2018, på aktivitetsplikt i Storbritannia. ",
           "Viser ineffektivitet til å øke langtidsansettelser, de fleste får kun midlertidige stillinger. ",
-          "Få etablerer fast arbeid og uavhengiget fra sosialstønad. ",
+          "Få etablerer fast arbeid og uavhengighet fra sosialstønad. ",
           "Aktivitetspliktighet gjør lite for å øke motivasjon til å forberede, søke, og oppnå fast arbeid. ",
           "Viser at det rutinemessig trigger negative personlige, finansielle, helserelaterte, ",
           "og atferdskonsekvenser, og kan skyve noen bort fra sosialstønad. ",
@@ -118,10 +118,10 @@ export const db = [
     name: "Kvalifiseringsprogrammet - KVP",
     informasjon: [
       {
-        name: "NAVs informasjonrmasjon",
+        name: "NAVs informasjon",
         url:
           "https://www.nav.no/no/Person/Flere+tema/Sosiale+tjenester/Kvalifiseringsprogrammet#chapter-1",
-        description: ["NAVs informasjonrmasjon om kvalifiseringsprogrammet"]
+        description: ["NAVs informasjon om kvalifiseringsprogrammet"]
       },
       {
         name: "Hvem starter i kvalifiseringsprogrammet, og kommer de i arbeid",
@@ -160,7 +160,7 @@ export const db = [
           "program, nesten 40 prosent i 2017. Økningen kan skyldes tendens til ",
           "å rekruttere mer ressurssterke deltakere. Færre totalt sett som går ",
           "på programmet, fra topp på 13800 i 2010, til 8900 i 2017. ",
-          "Protensiell kritikk: ~'programmet unnlater mange steder å rekruttere ",
+          "Potensiell kritikk: ~'programmet unnlater mange steder å rekruttere ",
           "gruppene med størst behov', dvs potensiale for mørketall. "
         ]
       },
@@ -171,7 +171,7 @@ export const db = [
         description: [
           "Forskningsbasert evaluering av kvalifiseringsprogrammet, gjennomført av ",
           "arbeidsforskningsinstituttet - AFI. KVP bygger på erfaringer med tidligere ",
-          "arbeidsrettete tiltak og satsinger mot samme målgruppe, men ingen av disse ",
+          "arbeidsrettede tiltak og satsinger mot samme målgruppe, men ingen av disse ",
           "har vist mer enn moderate sysselsettingseffekter. Uvisst om KVP vil fungere (2011). ",
           "Konkluderer at ved riktig tidsbruk, altså ute i virksomheter, slik at tilrettelegging, ",
           "og individuell oppfølging i ordinært arbeidsliv blir en del av sosialfaglig innsats. "
@@ -183,7 +183,7 @@ export const db = [
           "https://www.helsetilsynet.no/globalassets/opplastinger/publikasjoner/rapporter2015/helsetilsynetrapport2_2015.pdf",
         description: [
           "Rapport om KVP fra helsetilsynet, viser lovbrudd fra NAV i 76 av 92 kommuner (90 NAV-kontor), ",
-          "knyttet til informasjonrmasjon, rekruttering, innhold i programmet, og oppfølging av deltaker. ",
+          "knyttet til informasjon, rekruttering, innhold i programmet, og oppfølging av deltaker. ",
           "I nesten halvparten var ikke søkers situasjon godt nok kartlagt ved søknad til KVP. ",
           "Mangel på individuell tilfredsstillende tilpassing i ca halvparten av kommunene, ",
           "standardiserte kurs eller tiltak som ikke samsvarer med deltakerens behov. Ofte for lite obligatorisk ",
@@ -249,7 +249,7 @@ export const db = [
     name: "Praksisbrevordningen",
     informasjon: [
       {
-        name: "UDIRs informasjonrmasjon om praksisbrevordningen",
+        name: "UDIRs informasjon om praksisbrevordningen",
         url:
           "https://www.udir.no/regelverkstolkninger/opplaring/Fag--og-yrkesopplaring/Praksiskandidatordningen",
         description: [
@@ -266,7 +266,7 @@ export const db = [
           "https://www.nav.no/systemsider/allePubliserteDokumenter/_attachment/442340?_ts=15775c53910",
         description: [
           "Utredning av Nordisk institutt for studier av innovasjon, forskning, ",
-          "og utdanning, fra 2016. informasjonrmasjon om praksisbrev som tiltak mot frafall ",
+          "og utdanning, fra 2016. Informasjon om praksisbrev som tiltak mot frafall ",
           "i videregående. 16-åringer får begynne å arbeide i en bedrift, som ansatte. ",
           "Halvparten fra opprinnelig forsøk med praksisbrev i 2008, hadde fått ",
           "lærekontrakt etter 2 år - versus 29% av de som startet som ordinære ",
@@ -299,7 +299,7 @@ export const db = [
         url:
           "https://www.nav.no/no/Person/Arbeid/Oppfolging+og+tiltak+for+a+komme+i+jobb/Tiltak+for+a+komme+i+jobb/Relatert+innhold/varig-tilrettelagt-arbeid",
         description: [
-          "NAVs beskrivelse og informasjonrmasjon om varig tilrettelagt arbeid - VTA. ",
+          "NAVs beskrivelse og informasjon om varig tilrettelagt arbeid - VTA. ",
           "For de med uføretrygd som har behov for arbeid i skjermet virksomhet, ",
           "kan få tilbud om VTA tilpasset ens behov. "
         ]
@@ -456,7 +456,7 @@ export const db = [
           "Høyere lønn og bedre lønnsmuligheter gir insentiver til å investere ",
           "i læringen av språk. Statsborgerskap er blant alternativene som kan bidra ",
           "til å oppmuntre læring av nytt språk. Ulemper er blant annet: større ",
-          "lingvistisk barriere mellom morsmål og vertsland øker vansklighetsgrad ",
+          "lingvistisk barriere mellom morsmål og vertsland øker vanskelighetsgrad ",
           "og pris for læring av språk. "
         ]
       },
@@ -470,7 +470,7 @@ export const db = [
           "fremmedspråk for innvandrere. Fokuserer blant annet på tilnærming med høy ",
           "grad av deltakernes egne avgjørelser for hva som skal prates om. På denne måten ",
           "er kommunikasjonen alltid relevant og meningsfull for deltakerne. Legger vekt ",
-          "på ansvar for egen læring og at man finner det meningsfult når man lærer via ",
+          "på ansvar for egen læring og at man finner det meningsfullt når man lærer via ",
           "områder som er relevante for en selv, framfor tilnærming med generelle lærebøker. "
         ]
       },
@@ -557,10 +557,21 @@ export const db = [
           "https://fhi.no/globalassets/dokumenterfiler/rapporter/2017/supported-employment-for-arbeidssokere-med-bistandsbehov-rapport-2017-.pdf",
         description: [
           "FHI sin rapport om SE og IPS fra 2017. Har inkludert 38 kontrollerte studier ",
-          "i rapporten, hovesaklig fra USA og Europa, med oppfølgingstid på opp til 5 år. ",
+          "i rapporten, hovedsakelig fra USA og Europa, med oppfølgingstid på opp til 5 år. ",
           "Konkluderer med at IPS for personer med psykiske lidelser trolig gir dobbelt så stor ",
           "sannsynlighet for å komme i vanlig arbeid, sammenlignet med annet tiltak. ",
           "FHI mener resultatene trolig er overførbare til norsk kontekst. "
+        ]
+      },
+      {
+        name: "NAV-konferansen 2018 - 'Hva virker?'",
+        url: "asvl/ips/nav_konferansen_2018.pdf",
+        description: [
+          "Gjennomgang av IPS fra UiO, fra NAV-konferansen i 2018. Viser at verken psykologisk ",
+          "behandling alene, medikamenter, eller tradisjonelle arbeidsmarkedstiltak øker ",
+          "arbeidsinkludering. Viser at IPS har sterkt økt effekt sammenlignet med andre tiltak, ",
+          "både for gruppen med alvorlige psykiske lidelser, og deltakerne med mindre alvorlige ",
+          "psykiske lidelser. "
         ]
       },
       {
@@ -582,7 +593,7 @@ export const db = [
       },
       {
         name:
-          "Effectvieness of Individual Placement and Support for People With Mental Illness in the Netherlands",
+          "Effectiveness of Individual Placement and Support for People With Mental Illness in the Netherlands",
         url:
           "https://pdfs.semanticscholar.org/aa85/d37671cf0f4aa6160d65e45493cf5278bcb4.pdf",
         description: [
@@ -642,7 +653,7 @@ export const db = [
         ]
       },
       {
-        name: "Supported Employment Fidelity Reivew Manual",
+        name: "Supported Employment Fidelity Review Manual",
         url:
           "https://ipsworks.org/wp-content/uploads/2017/08/ips-fidelity-manual-3rd-edition_2-4-16.pdf",
         description: [
@@ -665,7 +676,7 @@ export const db = [
           "http://ips-norge.no/onewebmedia/Skjemaer/Plan%20for%20å%20kontakte%20arbeidsgivere.pdf",
         description: [
           "IPS-Norges plan for å kontakte arbeidsgivere for deltakere i IPS. I hovedsak to ulike ",
-          "tilnærminger, med sine fordeler og ulemper: Kontakt med bedrift via jobbspesialist, elelr ",
+          "tilnærminger, med sine fordeler og ulemper: Kontakt med bedrift via jobbspesialist, eller ",
           "kontakt med bedrift på egenhånd, hvor jobbspesialisten hjelper til med prosessen i bakgrunnen."
         ]
       },
@@ -697,7 +708,7 @@ export const db = [
         url:
           "https://www.blindeforbundet.no/rad-tips-og-rettigheter/arbeidsliv-og-karriere",
         description: [
-          "Blindeforbudets artikkel om tilrettelegging for svaksynte og blinde. ",
+          "Blindeforbundets artikkel om tilrettelegging for svaksynte og blinde. ",
           "Arbeidsgiver er lovpålagt individuell tilrettelegging, og skal så langt ",
           "det er mulig forsøke å finne løsninger som gjør at du blir værende i ",
           "jobben, eller får andre arbeidsoppgaver. "
