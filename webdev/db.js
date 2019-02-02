@@ -7,7 +7,7 @@ export const db = [
         url:
           "https://helsedirektoratet.no/retningslinjer/sykmelderveileder/seksjon?Tittel=aktivitetskravet-erklering-om-aktivitet-10995",
         description: [
-          "informasjon fra helsedirektoratet om aktivitetsplikten. ",
+          "Informasjon fra helsedirektoratet om aktivitetsplikten. ",
           "Nevner også om unntak fra aktivitetsplikten, og tilrettelegging."
         ]
       },
@@ -16,7 +16,7 @@ export const db = [
         url:
           "https://www.nav.no/no/NAV+og+samfunn/Kunnskap/Analyser+fra+NAV/Arbeid+og+velferd/Arbeid+og+velferd/_attachment/544662",
         description: [
-          "Gjennomgang av NAV-kontorenes erfaringer med aktivitetsplikt for unge sosialhjelpsmottakere",
+          "Gjennomgang av NAV-kontorenes erfaringer med aktivitetsplikt for unge sosialhjelpsmottakere. ",
           "Kontorene stiller seg positive til aktivitetsplikt og til lovendringen. ",
           "Kontorene mener brukerne oftere kommer seg ut av passiv tilværelse, ",
           "og at aktiviteten gir raskere avklaring, samt at de får verdifull kompetanse. ",
@@ -216,6 +216,15 @@ export const db = [
         description: [
           "NAVs kravspesifikasjon for arbeidsforberedende trening fra 2016. ",
           "Informasjon og krav til arbeidsplasser som ønsker å drive med AFT. "
+        ]
+      },
+      {
+        name: "NAVs regler vedrørende AFT",
+        url:
+          "https://www.nav.no/rettskildene/Rundskriv/hovednr.76-12-utfyllende-regler-til-arbeids-og-velferdsetatens-anvendelse-av-forskrift-om-arbeidsmarkedstiltak#kapittel-tretten",
+        description: [
+          "NAVs regler dekker blant annet AFTs formål, krav til innhold, personkrets, ",
+          "varighet, ansettelsesforhold, med mer. "
         ]
       },
       {
@@ -419,9 +428,18 @@ export const db = [
         name: "NAVs kravspesifikasjon for tiltak i skjermede virksomheter",
         url: "https://www.nav.no/_attachment/87667",
         description: [
-          "NAVs krav til VTA, arbeidspraksis i skjermet virksomhet (APS), arbeid med bistand (AMB) ",
-          "og kvalifisering og tilrettelagt arbeid i AMB. Kravspesifikasjonen omhandler krav til ",
-          "tiltaksarrangør vedrørende rutiner, faglig innhold og metoder, og rapportering. "
+          "NAVs krav til VTA. Er for tiden under revisjon, det vil trolig komme ny ",
+          "kravspesifikasjon i løpet av 2019. Kravspesifikasjonen omhandler krav til ",
+          "tiltaksarrangør vedrørende rutier, faglig innhold og metoder, og rapportering. "
+        ]
+      },
+      {
+        name: "NAVs regler vedrørende VTA",
+        url:
+          "https://www.nav.no/rettskildene/Rundskriv/hovednr.76-12-utfyllende-regler-til-arbeids-og-velferdsetatens-anvendelse-av-forskrift-om-arbeidsmarkedstiltak#kapittel-fjorten",
+        description: [
+          "NAVs regler dekker blant annet tiltakets innhold, VTA i skjermet og ordinær virksomhet, ",
+          "og ansettelsesforhold. "
         ]
       },
       {
@@ -580,6 +598,14 @@ export const db = [
           "NAKUs informasjon om Supported Employment og Individual Placement and Support. ",
           "Inneholder informasjon om historikk, mål og virkemiddel, samt hvordan jobbspesialistene ",
           "arbeider. "
+        ]
+      },
+      {
+        name: "NAPHAs artikkel om IPS",
+        url: "https://www.napha.no/content/20131/Individuell-jobbstotte-IPS",
+        description: [
+          "NAPHAs informasjon om IPS. NAPHA holder også kurs for blant annet NAV og jobbspesialister ",
+          "for å gi opplæring i IPS. "
         ]
       },
       {

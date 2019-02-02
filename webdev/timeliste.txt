@@ -23,7 +23,8 @@ Timer -   beskrivelse
 1.5   -   30.01.19, språk & synshemning & metoder
 1.5   -   31.01.19, metode for IPS, VTA
 2.0   -   01.02.19, metode for IPS, VTA, AFT, korrektur
+1.0   -   02.02.19, mer metode ^
 
 -------------------------------------------------------------------
 Totalt:
-20
+21
