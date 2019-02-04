@@ -24,7 +24,10 @@ Timer -   beskrivelse
 1.5   -   31.01.19, metode for IPS, VTA
 2.0   -   01.02.19, metode for IPS, VTA, AFT, korrektur
 1.0   -   02.02.19, mer metode ^
-
 -------------------------------------------------------------------
+21 timer ved første innsending, 04.02.19
+-------------------------------------------------------------------
+1.5   -   04.02.19, gjennomgang av ymse linker, SE, 
+
 Totalt:
-21
+22.5

@@ -237,12 +237,35 @@ export const db = [
       },
       {
         name: "Veileder for Grønt Arbeid",
-        url:
-          "https://www.fylkesmannen.no/contentassets/dc032a7f076e426e985c463e92c91089/gront-arbeid---veileder-nav-kontor.pdf",
+        url: "asvl/aft/gront_arbeid_nav_veileder.pdf",
         description: [
           "Grønt arbeid er et arbeidstilbud på gård i regi av NAV, for mennesker med ",
           "psykiske og/eller rusrelaterte helseproblemer. Veilederen inneholder informasjon ",
           "om programmet, og gjennomføring. "
+        ]
+      },
+      {
+        name: "Kvalitetssikringsvedlegg til veileder for Grønt Arbeid",
+        url: "asvl/aft/vedlegg_til_veileder_for_gront_arbeid.pdf",
+        description: [
+          "Kvalitetssikringsvedlegg for Grønt Arbeid. Inneholder kunnskapsmål, ferdighetsmål, ",
+          "og kompetansemål. "
+        ]
+      },
+      {
+        name: "Inn på tunet-tjenester (Grønt Arbeid)",
+        url: "asvl/aft/info-om-godkjenning-ipt.pdf",
+        description: [
+          "Veileder for godkjenning av å kunne bli Inn på tunet-tilbyder. ",
+          "Inneholder informasjon rundt hvem som kan bli godkjent, og hvordan ",
+          "man blir det. "
+        ]
+      },
+      {
+        name: "Øvrige dokumenter for 'Inn på tunet'",
+        url: "https://www.matmerk.no/no/inn-pa-tunet/nyttige-dokumenter",
+        description: [
+          "Matmerks side med dokumenter for etablerte og kommende IPT-tilbydere. "
         ]
       }
     ]
@@ -736,7 +759,16 @@ export const db = [
         ]
       },
       {
-        name: "Europeiske Union Supported Employment(EUSA)s verktøykasse",
+        name: "Supported Employment Kvalitetsverktøy - SEQF",
+        url: "asvl/ips/seqf_2017.pdf",
+        description: [
+          "Kvalitetsverktøy for Supported Employment utviklet av blant annet norske SENO, ",
+          "i samarbeid med europeiske SE-organisasjoner. Bidrar til kvalitetssikring og ",
+          "forbedring av SE i bedrift. Brukes gjerne sammen med EUSAs verktøykasse. "
+        ]
+      },
+      {
+        name: "Europeiske Union Supported Employment - EUSAs verktøykasse",
         url: "asvl/ips/eusetoolkit.pdf",
         description: [
           "EUSA ble opprettet for å utvikle Supported Employment i Europa, ettersom forskning har vist ",
