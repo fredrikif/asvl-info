@@ -207,6 +207,14 @@ export const db = [
           "arbeidsmiljø, i en oppstartsfase, før man går over i arbeidstrening ",
           "hos bedrifter i ordinært arbeidsliv. "
         ]
+      },
+      {
+        name: "Aticos brosjyre om AFT",
+        url: "http://www.atico.no/uploads/documents/Brosjyre%20AFT.pdf",
+        description: [
+          "Aticos utfyllende informasjon om AFT, gir god innsikt i hvordan et forløp ",
+          "med AFT kan se ut. "
+        ]
       }
     ],
     metoder: [
@@ -266,6 +274,22 @@ export const db = [
         url: "https://www.matmerk.no/no/inn-pa-tunet/nyttige-dokumenter",
         description: [
           "Matmerks side med dokumenter for etablerte og kommende IPT-tilbydere. "
+        ]
+      },
+      {
+        name: "Kartlegging av interesser",
+        url: "asvl/aft/Veivalg.pages",
+        description: [
+          "Interessekartlegger som brukes i forbindelse med karriereveiledning og ",
+          "arbeidsforberedende trening. "
+        ]
+      },
+      {
+        name: "Utdanning.no's interessetester",
+        url: "https://utdanning.no/tema/hjelp_og_veiledning/interessetester",
+        description: [
+          "Utdanning.no har samlet interessetester som er nyttige i forbindelse med ",
+          "arbeidsforberedende trening. "
         ]
       }
     ]
@@ -600,6 +624,18 @@ export const db = [
           "fremmedspråket og morsmålet. "
         ]
       }
+    ],
+    metoder: [
+      {
+        name: "Cabis integrering på arbeidsplassen",
+        url: "asvl/language/cabi_language.pdf",
+        description: [
+          "Cabi er en dansk idell organisasjon som gir råd og inspirasjon til virksomheter og ",
+          "kommuner, som jobber med arbeidsinkludering og integrering. Denne informasjonsplakaten ",
+          "har de laget til arbeidsplasser med fremmedspråklige, for en bedre integreringsprosess. ",
+          "Se <a href='https://www.cabiweb.dk' target='_blank' rel='noopener noreferrer'>Cabiweb</a> for mer info."
+        ]
+      }
     ]
   },
   {
@@ -661,6 +697,19 @@ export const db = [
         description: [
           "Arbeid og Inkludering sitt opplæringsskriv for IPS-konsulenter, i samarbeid ",
           "med NAV, fra 2011. "
+        ]
+      },
+      {
+        name: "Ringer i Vannet",
+        url:
+          "https://www.arbeidoginkludering.no/prosjekter-og-programmer/ringer-i-vannet/hva-er-ringer-i-vannet/",
+        description: [
+          "Ringer i Vannet er NHOs prosjekt for arbeidsinkludering, hvor man i stedet for å ",
+          "lete etter jobber som passer til personen, nå leter etter personer som passer til ",
+          "jobben. Prosjektet startet opp i 2012, og har siden hatt god vekst. I 2019 blir ",
+          "Ringer i Vannet 2-prosjektet lansert, med intensjon om å invitere flere ",
+          "arbeidsgiverorgasnisasjoner og tiltaksarrangører inn i samarbeidet. Målet er at ",
+          "flere arbeidssøkere med hull i CV'n kommer i jobb. "
         ]
       },
       {
@@ -741,6 +790,20 @@ export const db = [
           "medisinsk behandling, fysioterapi og trening, og kognitiv terapi, ",
           "innfører de også en modifisert utgave av IPS som behandling av smertene ",
           "for å redusere frafall fra arbeidslivet. "
+        ]
+      },
+      {
+        name: "Arbeidsgivere og arbeidsinkludering (Ringer i Vannet)",
+        url: "asvl/ips/riv_arbeidsgivere_arbeidsinkludering.pdf",
+        description: [
+          "NTNUs rapport av Ringer i Vannet, fra 2017. Analyse av arbeidet som gjøres ",
+          "gjennom Ringer i Vannet, på oppdrag av Arbeids- og sosialdepartementet. ",
+          "Rapporten viser at Ringer i Vannet fungerer som helhet, men traff per ",
+          "2017 ikke mer enn ca 600 personer årlig. Rapporten mener dermed at medotikken ",
+          "er solid, men trenger et bredere nedslagsfelt. I 2017 var det kun bedrifter i ",
+          "NHO-familien som deltok, men verken varehandel eller offentlige tjenester er ",
+          "representert i stor grad, til tross for å være de næringene som rekrutterer flest ",
+          "fra Arbeid- og Inkluderingsbedriftene. "
         ]
       }
     ],
@@ -833,6 +896,17 @@ export const db = [
         description: [
           "IPS-Norges stillingsbeskrivelse for stilling som metodeveileder gir innsyn i hvordan man kan ",
           "gjennomføre vellykkede IPS-program, med høy sysselsettingsrate. "
+        ]
+      },
+      {
+        name: "Ringer i Vannet - FAFOs rapport",
+        url: "asvl/ips/ringer_i_vannet_fafo_2015.pdf",
+        description: [
+          "Ringer i Vannet er en av Næringslivets Hovedorganisasjons (NHO) rekrutteringsstrategier ",
+          "innenfor inkluderingsarbeid. Målsettingen med prosjektet er å involvere personer med ",
+          "redusert arbeidsevne i større grad enn tidligere, ved å legge til rette for et mer forpliktende ",
+          "arbeid mellom attføringsbedrifter og arbeidsgivere. Opprinnelig prosjekt fra 2012 til 2015, ",
+          "har senere blitt fornyet i form av Ringer i Vannet 2 (2019 - 2020). "
         ]
       }
     ]
