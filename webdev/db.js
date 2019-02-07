@@ -74,6 +74,16 @@ export const db = [
         ]
       },
       {
+        name: "Aktivitetsplikt for sosialhjelpsmottakere",
+        url:
+          "https://proba.no/app/uploads/sites/4/rapport-2015-12-aktivitetsplikt-for-sosialhjelpsmottakere.pdf",
+        description: [
+          "Probas rapport om aktivitetsplikt for sosialhjelpsmottakere, fra et økonomisk perspektiv. ",
+          "Viser at innføringen opprinnelig vil bidra til økte kostnader, men som man ved vellykket ",
+          "gjennomføring av tiltaket vil tjene inn ved overgang fra sosialstønad til arbeid. "
+        ]
+      },
+      {
         name: "Welfare sanctions and conditionality in the UK",
         url:
           "https://www.jrf.org.uk/report/welfare-sanctions-and-conditionality-uk",
@@ -110,6 +120,17 @@ export const db = [
           "Finner at ved gjentatte advarsler, strenge sanksjoner som kollektiv reduksjon i utbetaling, ",
           "har man god effekt på programmet. Gunstig for familiene som gjennomfører, men potensielt veldig ",
           "ressurskrevende og vanskelig å gjennomføre for fattige områder. "
+        ]
+      }
+    ],
+    metoder: [
+      {
+        name: "Oppfølging og forebygging av sykefravær",
+        url:
+          "https://www.fylkesmannen.no/globalassets/fm-telemark/dokument-fmte/helse-og-omsorg/2017-kurs/turnuslegekurs/oppfolging-av-sykefravar-i-nav-med-fokus-pa-aktivitet-nina-t.-reime.pdf",
+        description: [
+          "Informasjon fra koordinerende rådgivende overlege ved NAV i Telemark om hvordan aktivitetsplikten ",
+          "skal gjennomføres fra både lege, NAV, og IA-rådgivere. "
         ]
       }
     ]
@@ -215,6 +236,17 @@ export const db = [
           "Aticos utfyllende informasjon om AFT, gir god innsikt i hvordan et forløp ",
           "med AFT kan se ut. "
         ]
+      },
+      {
+        name: "Prosjekt Springbrett",
+        url:
+          "http://www.spekter.no/Rapporter/Utvalgte-rapporter/Prosjekt-Springbrett---en-samarbeidsmodell/",
+        description: [
+          "Prosjekt Springbrett er et prosjekt startet i 2014 av Vestre Viken og NAV Buskerud, ",
+          "for å få personer som står utenfor inn i arbeidslivet. Nesten 40 prosent av deltakerene ",
+          "som har vært i arbeidstrening ved Vestre Viken har fått lønnet arbeid i det ordinære ",
+          "arbeidslivet. "
+        ]
       }
     ],
     metoder: [
@@ -224,6 +256,14 @@ export const db = [
         description: [
           "NAVs kravspesifikasjon for arbeidsforberedende trening fra 2016. ",
           "Informasjon og krav til arbeidsplasser som ønsker å drive med AFT. "
+        ]
+      },
+      {
+        name: "NAVs veiviser til arbeidstrening",
+        url:
+          "https://tjenester.nav.no/veiviserarbeidsgiver/rekruttere-og-inkludere/arbeidstrening",
+        description: [
+          "NAVs veiviser til arbeidstrening, gir informasjon om hvordan en bedrift kan "
         ]
       },
       {
@@ -241,6 +281,17 @@ export const db = [
         description: [
           "NAVs veileder for AFT og VTA fra 2016, beskriver hva som skal til for at ",
           "en bedrift skal kunne godkjennes for å arrangere tiltakene VTA og AFT. "
+        ]
+      },
+      {
+        name: "Spekters rapport om Prosjekt Springbrett",
+        url:
+          "http://www.spekter.no/Global/Rapporter/Springbrett_-_rapport_2_2017.pdf",
+        description: [
+          "Spekters rapport om Prosjekt Springbrett fra 2017, viser at Springbrett virker. ",
+          "Ca 40 prosent av deltakerene i Springbrett har kommet seg inn i arbeid. ",
+          "Suksessfaktorer er blant annet utvelgelsesprosessen, kravspesifikasjonen, og ",
+          "god forberedelse av lederne som mottok kandidatene. "
         ]
       },
       {
