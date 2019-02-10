@@ -776,6 +776,28 @@ export const db = [
           "usikkert om SE har samme effekt som IPS, på grunn av mindre forskning, men ",
           "det lille som er av resultater peker i samme retning (positivt). "
         ]
+      },
+      {
+        name: "HELT MED",
+        url: "https://heltmed.org/arbeidsplassene/",
+        description: [
+          "HELT MED er et prosjekt for å inkludere personer med funksjonsnedsettelser i ordinært ",
+          "arbeid. HELT MED arbeidstakere skal ikke erstatte annen arbeidskraft, men brukes som et ",
+          "supplement til annen grunnbemanning, for å kunne gi økt service og produksjon utover ",
+          "det som regnes som normalt. Arbeidsgiver betaler ca 30 til 35 kr per time til ",
+          "HELT MED arbeidstakerne, resten går via uføretrygden. "
+        ]
+      },
+      {
+        name: "HELT MED - resultater",
+        url: "https://heltmed.org/resultater/",
+        description: [
+          "Oppsumering av HELT MEDs resultater så langt, i 2018 ble det opprettet 45 nye ",
+          "arbeidsplasser for mennesker med utviklingshemming i HELT MED ordningen. HELT ",
+          "MED har som målsetting å opprette 80 HELT MED arbeidsplasser i løpet av 2019, og ",
+          "sikter inn mot 1000 nye arbeidsplasser innen 2027. Foreløpig har ca 57 prosent av ",
+          "de rekrutterte kommet fra VTA, og de fleste andre var arbeidsledige. "
+        ]
       }
     ],
     studier: [
@@ -958,6 +980,26 @@ export const db = [
           "redusert arbeidsevne i større grad enn tidligere, ved å legge til rette for et mer forpliktende ",
           "arbeid mellom attføringsbedrifter og arbeidsgivere. Opprinnelig prosjekt fra 2012 til 2015, ",
           "har senere blitt fornyet i form av Ringer i Vannet 2 (2019 - 2020). "
+        ]
+      },
+      {
+        name: "HELT MED - for arbeidsgivere",
+        url:
+          "https://static1.squarespace.com/static/5ae388f1a9e02804584a4b4b/t/5b3492fb1ae6cf453dc70791/1530172160668/04+Vil+dere+bli+HELT+MED-arbeidsgiver.pdf",
+        description: [
+          "Informasjon om hva som kreves av arbeidsgivere, og hvilke fordeler man kan dra av å bli ",
+          "en HELT MED-arbeidsplass. "
+        ]
+      },
+      {
+        name: "HELT MED - modell",
+        url:
+          "https://static1.squarespace.com/static/5ae388f1a9e02804584a4b4b/t/5b3493342b6a28b9ba4a10a2/1530172224825/02+HELT+MED-modellen.pdf",
+        description: [
+          "Utfyllende informasjon om metodikken som ligger bak HELT MED. Består av tre deler: <br />",
+          "Bakgrunn og målgruppe for prosjektet <br />",
+          "Beskrivelse av modell og framgangsmåte <br />",
+          "HELT MED trinn for trinn"
         ]
       }
     ]
