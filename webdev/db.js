@@ -213,6 +213,26 @@ export const db = [
           "og kan ikke kreves på et senere tidspunkt. "
         ]
       }
+    ],
+    metoder: [
+      {
+        name: "NAVs rundskriv om KVP",
+        url:
+          "https://www.nav.no/rettskildene/Rundskriv/hovednr.35-lov-om-sosiale-tjenester-i-nav#kvalifiseringsprogram",
+        description: [
+          "NAVs informasjon om gjennomføring av kvalifiseringsprogrammet. "
+        ]
+      },
+      {
+        name: "Kvalifiseringsprogrammet og sosialhjelpsutgiftene",
+        url:
+          "https://www.ks.no/contentassets/7e964f69ae104a108eb0460033b098a5/hvilken-innvirkning-har-det-kommunale-kvalifiseringsprogrammet-pa-sosialhjelpsutgiftene-sluttrapport.pdf",
+        description: [
+          "Fafo-rapport fra 2012 via KS sine sider. Inneholder informasjon om KVP i praksis, ",
+          "gjennomføring av program, hva som kjennetegner et godt KVP-program, og hvordan KVP ",
+          "kan forbedres. "
+        ]
+      }
     ]
   },
   {
