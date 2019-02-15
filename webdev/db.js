@@ -366,7 +366,7 @@ export const db = [
     ]
   },
   {
-    name: "Lærekandidatordningen",
+    name: "Lærekandidatordningen - LKO",
     informasjon: [
       {
         name: "Utdanningdirektoratets beskrivelse",
@@ -414,6 +414,45 @@ export const db = [
           "enn de som hadde avbrutt videregående opplæring. "
         ]
       }
+    ],
+    metoder: [
+      {
+        name: "Nordlands Håndbok for Lærekandidatordningen",
+        url:
+          "https://www.nfk.no/_f/p34/i46049575-bf0b-4bb0-90a7-0def88bf536f/handbok-larekandidat-revidering-2.pdf",
+        description: [
+          "Nordland fylkeskommunes grundige håndbok for lærekandidatordningen. ",
+          "Inneholder blant annet informasjon om selve lærekandidatordningen, opplæring ",
+          "i bedrift, økonomi, og samarbeidspartnere relatert til lærekandidatordningen. "
+        ]
+      },
+      {
+        name: "Samarbeidspartnere og deres ansvarsområder",
+        url:
+          "http://www.okamb.no/assets/PDF-Filer/Laerekandidatordningen-samarbeidspartnerer-og-deres-ansvarsomrader.pdf",
+        description: [
+          "Opplæringskontoret AMB Hordalands informasjon om lærekandidatordningen rettet til ",
+          "samarbeidspartnere og deres ansvarsområder. "
+        ]
+      },
+      {
+        name: "Buskeruds Håndbok for Lærekandidatordningen",
+        url:
+          "http://www.bfk.no/Documents/BFK/Utdanning/Fagopplæring/Håndbok%20for%20lærekandidatordningen.pdf",
+        description: [
+          "Buskerud fylkeskommunes håndbok for lærekandidatordningen. Som Nordlands ",
+          "håndbok gir denne god informasjon om gjennomføringen av LKO. "
+        ]
+      },
+      {
+        name: "Troms' Veileder for Lærekandidatordningen",
+        url: "https://ksysekstern.tromsfylke.no/docs/pub/dok03653.pdf",
+        description: [
+          "Troms fylkeskommunes veileder for lærekandidatordningen. Oppdatert 19.12.2018, ",
+          "inneholder utfyllende informasjon om blant annet opplæringsløpet og ",
+          "tilpasset læring og spesialundervisning. "
+        ]
+      }
     ]
   },
   {
@@ -458,6 +497,17 @@ export const db = [
           "Svært få av kandidatene oppnår fag- eller svennebrev, begge ",
           "ordninger ser derfor i hovedsak ut til å passe best for unge som ",
           "ikke sikter mot full yrkeskompetanse. "
+        ]
+      }
+    ],
+    metoder: [
+      {
+        name: "Utdanningdirektoratets maler og læreplaner for praksisbrev. ",
+        url:
+          "https://www.udir.no/utdanningslopet/videregaende-opplaring/andre-varianter/praksisbrev/",
+        description: [
+          "Inneholder læreplaner fra forsøket med praksisbrev, samt mal for læreplan ",
+          "og diplom for praksisbrev. "
         ]
       }
     ]
