@@ -54,3 +54,10 @@ I webdev/asvl/:
   Folder som inneholder dokumenter lastet opp til egen side, kun offentlig
   offentlig tilgjengelige dokumenter. Venter per 16.02.19 på svar fra GD om bruk av 
   full artikkel under aktivitetsplikt - informasjon. 
+------------------------------------------------------------------------------------
+I kilder/:
+  Foldere med kilder som trolig kan bli flyttet på, dermed greit å ha en backup. 
+  I all hovedsak peker informasjon til opprinnelig hosting der det er hensiktsmessig.
+------------------------------------------------------------------------------------
+I oppdrag/:
+  Dokumentasjon og timeliste, samt notater.
