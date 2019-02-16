@@ -2,11 +2,16 @@ Aktivitetsplikt
 Kvalifiseringsprogram
 Lærekandidat
 Lærekandidatordningen
-Kompetanse Norge
 Varig tilrettelagt arbeid
-Arbeidsforberedende trening
-
 Språktrening for innvandrere
+IPS - individual placement and support
+(ipsNORGE)
+
+
+Arbeidsforberedende trening (asvl har best info)
+
+Kompetanse Norge
+
 Tilrettelagt norsk skriftlig
 Tilrettelagt norsk muntlig
 Tilrettelagt leseopplæring
@@ -23,7 +28,6 @@ Psykisk Helse
 Jobbintervju
 Forskning
 Motiverende intervju
-IPS - individual placement and support
 Økonomi for ikke-økonomer
 SOR 
 NTNU
@@ -55,17 +59,3 @@ NAV - idebanken
 Arbeidsevnekartlegging
 SE - Supported Employment
 Fonteneforskning 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
