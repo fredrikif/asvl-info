@@ -1,0 +1,56 @@
+====================================================================================
+             Dokumentasjon til informasjonssamlingsprosjekt for ASVL
+====================================================================================
+
+Dato: 16.02.2019
+Av: Fredrik Inngjerdingen Forså
+URL: https://fredrikif.no/asvl/asvl-app.html
+Epost: fiforsa@gmail.com
+
+ASVL engasjerte Fredrik desember 2018 for hjelp til informasjonssøk for å samle
+informasjon relevant til ulike vedtak innen ASVLs målgrupper. Denne informasjonen
+har blitt strukturert i følgende filer i mappen 'webdev':
+  * asvl-app.html
+  * asvl-style.css
+  * asvl.js
+  * db.js
+
+Informasjonen er lagret i db.js, og kan enkelt konverteres til JSON om man ønsker
+å benytte API. Bruken av .html, .css, og asvl.js er et samarbeid for å gjøre det 
+lett å navigere informasjonen. Selve asvl-app.html er kun en ramme for rendering
+som skjer via asvl.js. Prosjektet består av simpel ES6 javascript, uten rammeverk. 
+
+------------------------------------------------------------------------------------
+I webdev/asvl.js:
+To støttefunksjoner som rendrers i linje 39.
+
+Linje 1:    Importerer informasjonsdatabasen.
+Linje 3:    Funksjon for å rendre sidens navigasjonsmeny.
+Linje 16:   Funksjon for å rendre de ulike objektene med informasjon fra db.js
+            Gir per 16. februar 2019 ut en <section> med tittel til kategori
+            (informasjon, studier, eller metoder), overskrift, link til kilde,
+            samt en oppsummering av kilden. 
+Linje 39:   Rendrer selve nettsiden her, først navigasjon, deretter samtlige 
+            kategorier i db.js, som per dags dato er for eksempel:
+            'Aktivitetsplikt', 'Kvalifiseringsprogrammet - KVP', osv. 
+------------------------------------------------------------------------------------
+I webdev/db.js:
+  Strukturen er bygget opp som en array med objekter for å enkelt kunne iterere
+  gjennom samtlige kategorier. 
+  Kategoriene består av objekter for hver kategori (informasjon, studier, og metoder).
+  Hvert object i kategoriene er bygd opp med "name", "url", og "description", hvor 
+  name og url er strenger. Description er en liste av strenger, for å kunne ha
+  informasjon i db.js som går over flere linjer, og gjør dokumentet mer lesbart. 
+  Dette håndteres av en .join("") i asvl.js på linje 29. 
+------------------------------------------------------------------------------------
+I webdev/asvl-style.css:
+  Per 16. februar 2019 relativt simpel css for å vise fram siden på en grei måte. 
+------------------------------------------------------------------------------------
+I webdev/asvl-app.html:
+  Kun linje 16 og 19 som er særlig relevant, asvl.js må inkluderes som module, 
+  ettersom den henter db.js fra en ekstern fil. 
+------------------------------------------------------------------------------------
+I webdev/asvl/:
+  Folder som inneholder dokumenter lastet opp til egen side, kun offentlig
+  offentlig tilgjengelige dokumenter. Venter per 16.02.19 på svar fra GD om bruk av 
+  full artikkel under aktivitetsplikt - informasjon. 

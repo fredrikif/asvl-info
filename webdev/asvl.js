@@ -21,13 +21,13 @@ const renderStudyInfo = (data, studyInfo) => `
       ${data[studyInfo]
         .map(
           category => `
-          <div class="${studyInfo}">
+          <section class="${studyInfo}">
             <h3>${category.name}</h3>
             <b>Kilde:</b> <a href="${
               category.url
             }" target="_blank" rel="noopener noreferrer">${category.name}</a>
             <p><b>Oppsummering:</b> ${category.description.join("")}</p>
-          </div>
+          </section>
         `
         )
         .join("")}
@@ -41,13 +41,13 @@ document.getElementById("app").innerHTML = `
   ${db
     .map(
       data => `
-    <div class="category">
+    <article class="category">
       <h1 id="${data.name}">${data.name}</h1>
       <a class="dbNav" href="#toTheTop">Toppen av siden</a>
       ${renderStudyInfo(data, "informasjon")}
       ${renderStudyInfo(data, "studier")}
       ${renderStudyInfo(data, "metoder")}
-    </div>
+    </article>
   `
     )
     .join("")}

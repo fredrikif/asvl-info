@@ -652,6 +652,15 @@ export const db = [
           "Kritisk at det er såpass store forskjeller mellom de ulike kommunene på ",
           "hvor godt de kan følge opp og gi opplæring til nyankomne innvandrere. "
         ]
+      },
+      {
+        name: "Lovdata - introduksjonsloven",
+        url: "https://lovdata.no/dokument/NL/lov/2003-07-04-80",
+        description: [
+          "Lovdatas side om introduksjonsloven. Inneholder utdypende informasjon om ",
+          "blant annet rettigheter og plikter til deltakelse i introduksjonsprogrammet, ",
+          "kommunens ansvar, med mer. "
+        ]
       }
     ],
     studier: [
@@ -700,6 +709,17 @@ export const db = [
           "og arbeidstrening, i kommunene Gjøvik, Lillehammer, Ringsaker og Hamar. Dette er andre ",
           " fase i et treårig prosjekt, og utprøvingen er evaluert og sammenfattet i denne rapporten. ",
           "I rapporten argumenterer vi for at det i større grad må tilrettelegges for fagretting av introduksjonsprogrammet."
+        ]
+      },
+      {
+        name: "Samarbeid mellom NAV og kommune - Proba",
+        url:
+          "https://proba.no/app/uploads/sites/4/proba-rapport-2017-11-samarbeid-nav-kommune-om-introduksjonsprogram.pdf",
+        description: [
+          "Kartlegging av Proba for å se hvordan NAV samarbeider med kommunene om introduksjonsprogrammet. ",
+          "Per 2017 hadde under 2/3 av kontorene skrevet samarbeidsavtale, men flere var i prosessen om å ",
+          "utarbeide avtale. Proba fant en positiv korrelasjon mellom det å ha samarbeidsavtale, samt det å ",
+          "ha introduksjonsprogrammet organisert i NAV-kontoret, og samarbeid i praksis. "
         ]
       },
       {
@@ -755,6 +775,23 @@ export const db = [
           "kommuner, som jobber med arbeidsinkludering og integrering. Denne informasjonsplakaten ",
           "har de laget til arbeidsplasser med fremmedspråklige, for en bedre integreringsprosess. ",
           "Se <a href='https://www.cabiweb.dk' target='_blank' rel='noopener noreferrer'>Cabiweb</a> for mer info."
+        ]
+      },
+      {
+        name: "Introduksjonsprogram - IMDi",
+        url: "https://www.imdi.no/introduksjonsprogram/",
+        description: [
+          "Integrerings- og mangfoldsdirektoratets sider om introduksjonsprogrammet. ",
+          "Inneholder utfyllende informasjon om programmet og gjennomføringen. "
+        ]
+      },
+      {
+        name: "Rundskriv om introduksjonsprogrammet - regjeringen",
+        url:
+          "https://www.regjeringen.no/contentassets/4b44b3ea29554b4aa1e9169829b75b78/g-01-2016.pdf",
+        description: [
+          "Regjeringens rundskriv om introduksjonsprogrammet fra 2016 inneholder utyfllende informasjon ",
+          "om programmet. "
         ]
       }
     ]
