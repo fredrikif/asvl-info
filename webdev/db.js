@@ -598,7 +598,7 @@ export const db = [
         description: [
           "NAVs krav til VTA. Er for tiden under revisjon, det vil trolig komme ny ",
           "kravspesifikasjon i løpet av 2019. Kravspesifikasjonen omhandler krav til ",
-          "tiltaksarrangør vedrørende rutier, faglig innhold og metoder, og rapportering. "
+          "tiltaksarrangør vedrørende rutiner, faglig innhold og metoder, og rapportering. "
         ]
       },
       {
@@ -790,7 +790,7 @@ export const db = [
         url:
           "https://www.regjeringen.no/contentassets/4b44b3ea29554b4aa1e9169829b75b78/g-01-2016.pdf",
         description: [
-          "Regjeringens rundskriv om introduksjonsprogrammet fra 2016 inneholder utyfllende informasjon ",
+          "Regjeringens rundskriv om introduksjonsprogrammet fra 2016 inneholder utfyllende informasjon ",
           "om programmet. "
         ]
       }
@@ -866,7 +866,7 @@ export const db = [
           "lete etter jobber som passer til personen, nå leter etter personer som passer til ",
           "jobben. Prosjektet startet opp i 2012, og har siden hatt god vekst. I 2019 blir ",
           "Ringer i Vannet 2-prosjektet lansert, med intensjon om å invitere flere ",
-          "arbeidsgiverorgasnisasjoner og tiltaksarrangører inn i samarbeidet. Målet er at ",
+          "arbeidsgiverorganisasjoner og tiltaksarrangører inn i samarbeidet. Målet er at ",
           "flere arbeidssøkere med hull i CV'n kommer i jobb. "
         ]
       },
@@ -899,7 +899,7 @@ export const db = [
         name: "HELT MED - resultater",
         url: "https://heltmed.org/resultater/",
         description: [
-          "Oppsumering av HELT MEDs resultater så langt, i 2018 ble det opprettet 45 nye ",
+          "Oppsummering av HELT MEDs resultater så langt, i 2018 ble det opprettet 45 nye ",
           "arbeidsplasser for mennesker med utviklingshemming i HELT MED ordningen. HELT ",
           "MED har som målsetting å opprette 80 HELT MED arbeidsplasser i løpet av 2019, og ",
           "sikter inn mot 1000 nye arbeidsplasser innen 2027. Foreløpig har ca 57 prosent av ",
@@ -979,7 +979,7 @@ export const db = [
           "NTNUs rapport av Ringer i Vannet, fra 2017. Analyse av arbeidet som gjøres ",
           "gjennom Ringer i Vannet, på oppdrag av Arbeids- og sosialdepartementet. ",
           "Rapporten viser at Ringer i Vannet fungerer som helhet, men traff per ",
-          "2017 ikke mer enn ca 600 personer årlig. Rapporten mener dermed at medotikken ",
+          "2017 ikke mer enn ca 600 personer årlig. Rapporten mener dermed at metodikken ",
           "er solid, men trenger et bredere nedslagsfelt. I 2017 var det kun bedrifter i ",
           "NHO-familien som deltok, men verken varehandel eller offentlige tjenester er ",
           "representert i stor grad, til tross for å være de næringene som rekrutterer flest ",
