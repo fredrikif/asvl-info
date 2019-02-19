@@ -1163,5 +1163,230 @@ export const db = [
         ]
       }
     ]
+  },
+  {
+    name: "Nyttige sider / verktøy",
+    informasjon: [
+      {
+        name: "Veiviseren.no",
+        url: "https://www.veiviseren.no",
+        description: [
+          "Veiviseren er en digital verktøykasse med sammensatte tjenester ",
+          "relatert til bolig. Inneholder blant annet temaer som: kommunal ",
+          "planlegging, bosetting av vanskeligstilte, integrering, innovasjon ",
+          "oppfølgende tjenester og arbeidet knyttet til sårbare overganger fra ",
+          "fengsel, barnevern, og helseinstitusjoner. "
+        ]
+      },
+      {
+        name: "Ups & Downs Oslo",
+        url: "http://www.upsanddownsoslo.no",
+        description: [
+          "Ups & Downs Oslo er en av mange foreninger for familier til barn med ",
+          "Downs Syndrom i Norge. Foreningens mål er å fremme sosial kontakt og ",
+          "være et nettverk for sine medlemmer gjennom faglige og sosiale aktiviteter. "
+        ]
+      },
+      {
+        name: "Snakk om rus - kartleggingsverktøy",
+        url: "https://rop.no/snakkomrus/kartleggingsverktoy/",
+        description: [
+          "ROP.nos kartleggingsverktøyside om rus. Elektroniske verktøy for å ",
+          "kartlegge bruken av alkohol og andre rusmidler som grunnlag for samtaler. "
+        ]
+      },
+      {
+        name: "Nasjonalt Kompetansemiljø om Utviklingshemming",
+        url: "https://naku.no",
+        description: [
+          "NAKU sin hovedoppgave er å utvikle det faglige grunnlaget for å skape ",
+          "gode levekår for personer med utviklingshemming. NAKU har en stor ",
+          "kunnskapsbank med mye informasjon og forskning. "
+        ]
+      },
+      {
+        name: "Fontene forskning",
+        url: "http://fonteneforskning.no",
+        description: [
+          "Fontene forskning er Norges ledende vitenskapelige tidsskrift for ",
+          "sosialt arbeid, barnevern, og vernepleie. "
+        ]
+      },
+      {
+        name: "Proba samfunnsanalyse",
+        url: "https://proba.no",
+        description: [
+          "Proba samfunnsanalyse leverer samfunnsvitenskapelige analyser ",
+          "i form av utredning og forskning."
+        ]
+      },
+      {
+        name: "Velferdsforskningsinstituttet NOVA",
+        url: "https://www.oslomet.no/om/nova",
+        description: [
+          "NOVA er et samfunnsvitenskapelig forskningsinstitutt på OsloMet ",
+          "med vekt på forskning om oppvekst, livskvalitet, velferdstjenester, ",
+          "velferdspolitikk, samt aldring og livsløp. "
+        ]
+      },
+      {
+        name: "Arbeidsforskningsinstituttet - AFI",
+        url: "https://www.oslomet.no/om/afi",
+        description: [
+          "AFI forsker på aktuelle tema knyttet til arbeidsliv og samfunnsdeltakelse ",
+          "via Oslo Met. "
+        ]
+      },
+      {
+        name: "Fafo",
+        url: "https://www.fafo.no",
+        description: [
+          "Fafo er en frittstående samfunnsvitenskapelig forskningsstiftelse som ",
+          "utvikler kunnskap om vilkårene for deltakelse i arbeidsliv, organisasjonsliv, ",
+          "samfunn og politikk, og sammenhengene mellom politikk og levekår, og om ",
+          "demokrati, utvikling, og verdiskaping. "
+        ]
+      },
+      {
+        name: "Nordlandsforskning",
+        url: "http://nordlandsforskning.no/?lang=no_NO",
+        description: [
+          "Nordlandsforskning utfører forskningsoppdrag innen samfunnsvitenskapelige ",
+          "og bedriftsøkonomiske fagområder. "
+        ]
+      },
+      {
+        name: "Arbeidskraftundersøkelsen",
+        url: "https://www.ssb.no/aku",
+        description: [
+          "Arbeidskraftundersøkelsen gir tall på hvor stor andel av befolkningen ",
+          "(15 til 74 år) som er i arbeidsstyrken (summen av sysselsatte og arbeidsledige). "
+        ]
+      },
+      {
+        name: "Aldring og Helse",
+        url: "https://www.aldringoghelse.no",
+        description: [
+          "Nasjonal kompetansetjeneste for aldring og helse skal sikre nasjonal ",
+          "kompetanseoppbygging og kompetansespredning om alderspsykiatri, demens. ",
+          "funksjonshemning og aldring, og utviklingshemning og aldring. "
+        ]
+      },
+      {
+        name: "Produktionsskolen i Greve og Høje Taastrup",
+        url: "http://www.produktionsskole.dk",
+        description: [
+          "Produktionsskolen er en dansk organisasjon som tilbyr kombinasjon av ",
+          "utdannelse og arbeid, hvor man både kan bruke hender og hodet, til unge under 25 år. "
+        ]
+      },
+      {
+        name: "Samhall",
+        url: "https://samhall.se",
+        description: [
+          "Samhall er et svensk statlig eid selskap med formål å skape arbeid som ",
+          "videreutvikler personer med funksjonshemningers arbeidsevne.  "
+        ]
+      },
+      {
+        name: "Workability International",
+        url: "http://www.workability-international.org",
+        description: [
+          "Workability International jobber for rettighetene til arbeid for alle med ",
+          "funksjonshemning eller andre begrensninger. "
+        ]
+      },
+      {
+        name: "European Platform for Rehabilitation",
+        url: "https://www.epr.eu",
+        description: [
+          "EPR er et nettverk av tjenestetilbydere for personer med funksjonshemninger ",
+          "dedikert til levering av tjenester med høy kvalitet. "
+        ]
+      },
+      {
+        name: "Helsedirektoratet",
+        url: "https://helsedirektoratet.no",
+        description: [
+          "Helsedirektoratet skal styrke hele befolkningens helse gjennom helhetlig ",
+          "og målrettet arbeid på tvers av tjenester, sektorer og forvaltningsnivå. ",
+          "Inneholder blant annet informasjon, veiledere, statistikk, og analyse. "
+        ]
+      },
+      {
+        name: "Utdanningsdirektoratet",
+        url: "https://www.udir.no",
+        description: [
+          "Utdanningsdirektoratet har ansvaret for utviklingen av barnehage, grunnskole, ",
+          "og videregående opplæring. "
+        ]
+      },
+      {
+        name: "Kompetanse Norge",
+        url: "https://www.kompetansenorge.no",
+        description: [
+          "Kompetanse Norge jobber for at voksne både i og utenfor arbeidslivet skal ",
+          "få den kompetansen de trenger. De samler kunnskap og gir anbefalinger til ",
+          "myndighetene og andre aktører for å sikre videreutvikling av kompetansepolitikken. "
+        ]
+      },
+      {
+        name: "Stiftelsen SOR",
+        url: "http://www.samordningsradet.no",
+        description: [
+          "Samordningsrådet arbeider med informasjons- og kompetanseformidling, ",
+          "fagutvikling, og sosialpolitiske innspill, med særlig fokus på holdningsarbeid ",
+          "og bevisstgjøring om utfordringer og utviklingsmuligheter for funksjonshemmede. "
+        ]
+      },
+      {
+        name: "Psykisk Helse",
+        url: "https://www.psykiskhelse.no",
+        description: [
+          "Rådet for psykisk helse er en paraplyorganisasjon som jobber for et ",
+          "samfunn som bidrar til god psykisk helse for alle. Jobber blant annet med ",
+          "inkluderende arbeidsliv og forebygging av psykiske helseplager. "
+        ]
+      },
+      {
+        name: "Idébanken",
+        url: "https://www.idebanken.org",
+        description: [
+          "Idébanken er et virkemiddel som skal bidra til å nå måla i ",
+          "intensjonsavtalen om et mer inkluderende arbeidsliv (IA-avtalen). ",
+          "Idébankens oppgave er å heve IA-kompetansen i norsk arbeidsliv gjennom ",
+          "formidling av gode eksempler, forskning, og annen kunnskap. "
+        ]
+      },
+      {
+        name: "Karde",
+        url: "http://www.karde.no",
+        description: [
+          "Karde tilbyr innovasjon, rådgivning, ledelse og utvikling innen IKT til ",
+          "næringslivet, offentlig sektor, samt frivillige organisasjoner og andre ",
+          "virksomheter. "
+        ]
+      },
+      {
+        name: "Unge funksjonshemmede",
+        url: "https://ungefunksjonshemmede.no",
+        description: [
+          "Unge funksjonshemmede er en paraplyorganisasjon for 37 organisasjoner ",
+          "og grupperinger av ungdom med funksjonshemning og kronisk sykdom. ",
+          "Deres formål er å sikre deltakelse og samfunnsmessig likestilling for ",
+          "unge mellom 12 og 36 år med funksjonshemninger og kronisk sykdom. ",
+          "De jobber også med kunnskapsinnhenting og kunnskapsspredning om tema ",
+          "som er viktige for å sikre likestilling og deltakelse. "
+        ]
+      },
+      {
+        name: "Norsk Forbund for Utviklingshemmede",
+        url: "http://www.nfunorge.org",
+        description: [
+          "NFU er en viktig pådriver for å bedre levekårene for mennesker med ",
+          "utviklingshemming. "
+        ]
+      }
+    ]
   }
 ];
