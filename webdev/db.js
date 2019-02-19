@@ -1289,6 +1289,40 @@ export const db = [
         ]
       },
       {
+        name: "Cabi",
+        url: "https://www.cabiweb.dk",
+        description: [
+          "Cabi er en dansk uavhengig non-profit selveid institusjon ",
+          "med formål om å fremme et arbeidsmarked der det er plass til flere. "
+        ]
+      },
+      {
+        name: "Sociale Entrepenører i Danmark",
+        url: "http://sociale-entreprenører.dk/om-sed.html",
+        description: [
+          "Sociale Entrepenører i Danmark (SED) er en landsdekkende forening for alle med ",
+          "interesse for sosialt arbeid. "
+        ]
+      },
+      {
+        name: "Nordisk Samarbejde",
+        url: "https://www.norden.org/da/node/7383",
+        description: [
+          "Komparativ studie av arbeidsmarkedspolitikkens styring i Norden, via ",
+          "Nordisk Samarbejde, som er et både politisk, økonomisk, og kulturelt samarbeid ",
+          "mellom de nordiske landnene. "
+        ]
+      },
+      {
+        name: "Vocational Rehabilitation Fund - VIRK",
+        url: "https://www.virk.is/is/english/mission-and-activities-of-virk",
+        description: [
+          "VIRK er en islandsk privat organisasjon med mål om å utvikle, ",
+          "integrere, og overvåke tjenester innen arbeidsrehabilitering. ",
+          "Jobber spesifikt for å hjelpe folk tilbake i jobb etter sykdom eller skade. "
+        ]
+      },
+      {
         name: "Workability International",
         url: "http://www.workability-international.org",
         description: [
