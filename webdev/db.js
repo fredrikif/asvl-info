@@ -124,15 +124,15 @@ export const db = [
       }
     ],
     metoder: [
+      /*
       {
-        name: "Oppfølging og forebygging av sykefravær",
-        url:
-          "https://www.fylkesmannen.no/globalassets/fm-telemark/dokument-fmte/helse-og-omsorg/2017-kurs/turnuslegekurs/oppfolging-av-sykefravar-i-nav-med-fokus-pa-aktivitet-nina-t.-reime.pdf",
+        name: "Lier ASVO",
+        url: "https://lier-asvo.no",
         description: [
-          "Informasjon fra koordinerende rådgivende overlege ved NAV i Telemark om hvordan aktivitetsplikten ",
-          "skal gjennomføres fra både lege, NAV, og IA-rådgivere. "
+          "Lier ASVO "
         ]
       }
+      */
     ]
   },
   {
@@ -236,7 +236,7 @@ export const db = [
     ]
   },
   {
-    name: "Arbeidsforberedende trening - AFT",
+    name: "Arbeidsforberedende trening - AFT og Praksisbrevordningen",
     informasjon: [
       {
         name: "NAVs informasjon om AFT",
@@ -258,32 +258,11 @@ export const db = [
         ]
       },
       {
-        name: "Prosjekt Springbrett",
-        url:
-          "http://www.spekter.no/Rapporter/Utvalgte-rapporter/Prosjekt-Springbrett---en-samarbeidsmodell/",
-        description: [
-          "Prosjekt Springbrett er et prosjekt startet i 2014 av Vestre Viken og NAV Buskerud, ",
-          "for å få personer som står utenfor inn i arbeidslivet. Nesten 40 prosent av deltakerene ",
-          "som har vært i arbeidstrening ved Vestre Viken har fått lønnet arbeid i det ordinære ",
-          "arbeidslivet. "
-        ]
-      }
-    ],
-    metoder: [
-      {
         name: "NAVs kravspesifikasjon for tiltaksarrangører",
         url: "asvl/aft/kravspesifikasjon_aft_2016.pdf",
         description: [
           "NAVs kravspesifikasjon for arbeidsforberedende trening fra 2016. ",
           "Informasjon og krav til arbeidsplasser som ønsker å drive med AFT. "
-        ]
-      },
-      {
-        name: "NAVs veiviser til arbeidstrening",
-        url:
-          "https://tjenester.nav.no/veiviserarbeidsgiver/rekruttere-og-inkludere/arbeidstrening",
-        description: [
-          "NAVs veiviser til arbeidstrening, gir informasjon om hvordan en bedrift kan "
         ]
       },
       {
@@ -301,17 +280,6 @@ export const db = [
         description: [
           "NAVs veileder for AFT og VTA fra 2016, beskriver hva som skal til for at ",
           "en bedrift skal kunne godkjennes for å arrangere tiltakene VTA og AFT. "
-        ]
-      },
-      {
-        name: "Spekters rapport om Prosjekt Springbrett",
-        url:
-          "http://www.spekter.no/Global/Rapporter/Springbrett_-_rapport_2_2017.pdf",
-        description: [
-          "Spekters rapport om Prosjekt Springbrett fra 2017, viser at Springbrett virker. ",
-          "Ca 40 prosent av deltakerene i Springbrett har kommet seg inn i arbeid. ",
-          "Suksessfaktorer er blant annet utvelgelsesprosessen, kravspesifikasjonen, og ",
-          "god forberedelse av lederne som mottok kandidatene. "
         ]
       },
       {
@@ -347,117 +315,6 @@ export const db = [
           "Matmerks side med dokumenter for etablerte og kommende IPT-tilbydere. "
         ]
       },
-      {
-        name: "Kartlegging av interesser",
-        url: "asvl/aft/Veivalg.pages",
-        description: [
-          "Interessekartlegger som brukes i forbindelse med karriereveiledning og ",
-          "arbeidsforberedende trening. "
-        ]
-      },
-      {
-        name: "Utdanning.no's interessetester",
-        url: "https://utdanning.no/tema/hjelp_og_veiledning/interessetester",
-        description: [
-          "Utdanning.no har samlet interessetester som er nyttige i forbindelse med ",
-          "arbeidsforberedende trening. "
-        ]
-      }
-    ]
-  },
-  {
-    name: "Lærekandidatordningen - LKO",
-    informasjon: [
-      {
-        name: "Utdanningdirektoratets beskrivelse",
-        url:
-          "https://www.udir.no/utdanningslopet/videregaende-opplaring/andre-varianter/larekandidatordning/",
-        description: [
-          "Lærekandidatordningen er for de som ønsker videregående opplæring ",
-          "i bedrift, men som ikke har forutsetninger for å nå kravene til fag- og ",
-          "svenneprøven. Grunnkompetanse som kan oppnås ved individuelt tilpasset opplæring, ",
-          "og kan bygges videre til yrkeskompetanse."
-        ]
-      }
-    ],
-    studier: [
-      {
-        name: "Jeg vet ikke hva alternativet skulle vært",
-        url:
-          "https://brage.bibsys.no/xmlui/bitstream/handle/11250/2500663/NIFUrapport2018-8.pdf?sequence=1&isAllowed=y",
-        description: [
-          "Evaluering av lærekandidatordningen fra NIFU, 2018, bestilt av udir. ",
-          "Fant svært positive holdninger til lærekandidatordningen, både i form av ",
-          "at det er en ordning vi trenger, og må beholde. Variasjon fra 13 til 1.6 ",
-          "prosent lærlinger i ordningen per fylke, hhv Østfold og Oslo. Uklart hvem ",
-          "som faktisk er målgruppen, defineres ulikt mellom fylkeskommunene, noen ",
-          "har eksakte kriterier for hvem som kan bli lærekandidat, andre har generelle ",
-          "retningslinjer, mens noen har ingen retningslinjer i det hele tatt. ",
-          "Uenighet ikke bare blant fylkeskommunene, men også blant LO, NHO, og Utdanningsforbundet ",
-          "om hvem som faktisk er målgruppen. NHO ønsker bred inkludering, mens LO og ",
-          "Utdanningsforbundet ønsker en smalere målgruppe, hvor kun de som ikke kan oppnå ",
-          "fagbrev får innpass i ordningen. Fra 2010, 2011, og 2012 kullene av totalt 1753 ",
-          "lærekandidater, var det per juni 2017 kun 15 som hadde fagbrev, viser dermed at ",
-          "ordningen ikke er en vei til fagbrev. Lærekandidatordningen viser seg å passe best ",
-          "for elever med svake prestasjoner på ungdomsskolen, dårligere resultater for elever ",
-          "med gode karaktergrunnlag fra ungdomsskolen."
-        ]
-      },
-      {
-        name: "Kvalifisert, forberedt og motivert (2018)",
-        url:
-          "https://www.regjeringen.no/contentassets/c69184206be24cc49be8dff70088c208/no/pdfs/nou201820180015000dddpdfs.pdf",
-        description: [
-          "Rapport fra Norges offentlige utredninger, om videregående opplæring ",
-          "Er innom lærekandidatordningen i kapittel 8, viser blant annet at ",
-          "lærekandidatene og praksisbrevkandidatene kom bedre ut i arbeidslivet, ",
-          "enn de som hadde avbrutt videregående opplæring. "
-        ]
-      }
-    ],
-    metoder: [
-      {
-        name: "Nordlands Håndbok for Lærekandidatordningen",
-        url:
-          "https://www.nfk.no/_f/p34/i46049575-bf0b-4bb0-90a7-0def88bf536f/handbok-larekandidat-revidering-2.pdf",
-        description: [
-          "Nordland fylkeskommunes grundige håndbok for lærekandidatordningen. ",
-          "Inneholder blant annet informasjon om selve lærekandidatordningen, opplæring ",
-          "i bedrift, økonomi, og samarbeidspartnere relatert til lærekandidatordningen. "
-        ]
-      },
-      {
-        name: "Samarbeidspartnere og deres ansvarsområder",
-        url:
-          "http://www.okamb.no/assets/PDF-Filer/Laerekandidatordningen-samarbeidspartnerer-og-deres-ansvarsomrader.pdf",
-        description: [
-          "Opplæringskontoret AMB Hordalands informasjon om lærekandidatordningen rettet til ",
-          "samarbeidspartnere og deres ansvarsområder. "
-        ]
-      },
-      {
-        name: "Buskeruds Håndbok for Lærekandidatordningen",
-        url:
-          "http://www.bfk.no/Documents/BFK/Utdanning/Fagopplæring/Håndbok%20for%20lærekandidatordningen.pdf",
-        description: [
-          "Buskerud fylkeskommunes håndbok for lærekandidatordningen. Som Nordlands ",
-          "håndbok gir denne god informasjon om gjennomføringen av LKO. "
-        ]
-      },
-      {
-        name: "Troms' Veileder for Lærekandidatordningen",
-        url: "https://ksysekstern.tromsfylke.no/docs/pub/dok03653.pdf",
-        description: [
-          "Troms fylkeskommunes veileder for lærekandidatordningen. Oppdatert 19.12.2018, ",
-          "inneholder utfyllende informasjon om blant annet opplæringsløpet og ",
-          "tilpasset læring og spesialundervisning. "
-        ]
-      }
-    ]
-  },
-  {
-    name: "Praksisbrevordningen",
-    informasjon: [
       {
         name: "UDIRs informasjon om praksisbrevordningen",
         url:
@@ -502,12 +359,163 @@ export const db = [
     ],
     metoder: [
       {
+        name: "Kartlegging av interesser",
+        url: "asvl/aft/Veivalg.pages",
+        description: [
+          "Interessekartlegger som brukes i forbindelse med karriereveiledning og ",
+          "arbeidsforberedende trening. "
+        ]
+      },
+      {
+        name: "Utdanning.no's interessetester",
+        url: "https://utdanning.no/tema/hjelp_og_veiledning/interessetester",
+        description: [
+          "Utdanning.no har samlet interessetester som er nyttige i forbindelse med ",
+          "arbeidsforberedende trening. "
+        ]
+      },
+      {
+        name: "Kompetanse Norges Test Deg Selv",
+        url: "https://www.kompetansenorge.no/test-deg-selv/",
+        description: [
+          "Kartleggingstester innen leseferdigheter, regneferdigheter og datakunnskap. "
+        ]
+      },
+      {
+        name: "Kompetanse Norges Karriereveiledning",
+        url: "https://www.kompetansenorge.no/Karriereveiledning/",
+        description: [
+          "Kompetanse Norges side for karriereveiledning. Inneholder informasjon om ",
+          "karriereveiledning, samt gjennomføring og verktøy. "
+        ]
+      },
+      {
         name: "Utdanningdirektoratets maler og læreplaner for praksisbrev. ",
         url:
           "https://www.udir.no/utdanningslopet/videregaende-opplaring/andre-varianter/praksisbrev/",
         description: [
           "Inneholder læreplaner fra forsøket med praksisbrev, samt mal for læreplan ",
           "og diplom for praksisbrev. "
+        ]
+      }
+    ]
+  },
+  {
+    name: "Lærekandidatordningen - LKO",
+    informasjon: [
+      {
+        name: "Utdanningdirektoratets beskrivelse",
+        url:
+          "https://www.udir.no/utdanningslopet/videregaende-opplaring/andre-varianter/larekandidatordning/",
+        description: [
+          "Lærekandidatordningen er for de som ønsker videregående opplæring ",
+          "i bedrift, men som ikke har forutsetninger for å nå kravene til fag- og ",
+          "svenneprøven. Grunnkompetanse som kan oppnås ved individuelt tilpasset opplæring, ",
+          "og kan bygges videre til yrkeskompetanse."
+        ]
+      },
+      {
+        name: "Nordlands Håndbok for Lærekandidatordningen",
+        url:
+          "https://www.nfk.no/_f/p34/i46049575-bf0b-4bb0-90a7-0def88bf536f/handbok-larekandidat-revidering-2.pdf",
+        description: [
+          "Nordland fylkeskommunes grundige håndbok for lærekandidatordningen. ",
+          "Inneholder blant annet informasjon om selve lærekandidatordningen, opplæring ",
+          "i bedrift, økonomi, og samarbeidspartnere relatert til lærekandidatordningen. "
+        ]
+      },
+      {
+        name: "Buskeruds Håndbok for Lærekandidatordningen",
+        url:
+          "http://www.bfk.no/Documents/BFK/Utdanning/Fagopplæring/Håndbok%20for%20lærekandidatordningen.pdf",
+        description: [
+          "Buskerud fylkeskommunes håndbok for lærekandidatordningen. Som Nordlands ",
+          "håndbok gir denne god informasjon om gjennomføringen av LKO. "
+        ]
+      },
+      {
+        name: "Troms' Veileder for Lærekandidatordningen",
+        url: "https://ksysekstern.tromsfylke.no/docs/pub/dok03653.pdf",
+        description: [
+          "Troms fylkeskommunes veileder for lærekandidatordningen. Oppdatert 19.12.2018, ",
+          "inneholder utfyllende informasjon om blant annet opplæringsløpet og ",
+          "tilpasset læring og spesialundervisning. "
+        ]
+      }
+    ],
+    studier: [
+      {
+        name: "Jeg vet ikke hva alternativet skulle vært",
+        url:
+          "https://brage.bibsys.no/xmlui/bitstream/handle/11250/2500663/NIFUrapport2018-8.pdf?sequence=1&isAllowed=y",
+        description: [
+          "Evaluering av lærekandidatordningen fra NIFU, 2018, bestilt av udir. ",
+          "Fant svært positive holdninger til lærekandidatordningen, både i form av ",
+          "at det er en ordning vi trenger, og må beholde. Variasjon fra 13 til 1.6 ",
+          "prosent lærlinger i ordningen per fylke, hhv Østfold og Oslo. Uklart hvem ",
+          "som faktisk er målgruppen, defineres ulikt mellom fylkeskommunene, noen ",
+          "har eksakte kriterier for hvem som kan bli lærekandidat, andre har generelle ",
+          "retningslinjer, mens noen har ingen retningslinjer i det hele tatt. ",
+          "Uenighet ikke bare blant fylkeskommunene, men også blant LO, NHO, og Utdanningsforbundet ",
+          "om hvem som faktisk er målgruppen. NHO ønsker bred inkludering, mens LO og ",
+          "Utdanningsforbundet ønsker en smalere målgruppe, hvor kun de som ikke kan oppnå ",
+          "fagbrev får innpass i ordningen. Fra 2010, 2011, og 2012 kullene av totalt 1753 ",
+          "lærekandidater, var det per juni 2017 kun 15 som hadde fagbrev, viser dermed at ",
+          "ordningen ikke er en vei til fagbrev. Lærekandidatordningen viser seg å passe best ",
+          "for elever med svake prestasjoner på ungdomsskolen, dårligere resultater for elever ",
+          "med gode karaktergrunnlag fra ungdomsskolen."
+        ]
+      },
+      {
+        name: "Kvalifisert, forberedt og motivert (2018)",
+        url:
+          "https://www.regjeringen.no/contentassets/c69184206be24cc49be8dff70088c208/no/pdfs/nou201820180015000dddpdfs.pdf",
+        description: [
+          "Rapport fra Norges offentlige utredninger, om videregående opplæring ",
+          "Er innom lærekandidatordningen i kapittel 8, viser blant annet at ",
+          "lærekandidatene og praksisbrevkandidatene kom bedre ut i arbeidslivet, ",
+          "enn de som hadde avbrutt videregående opplæring. "
+        ]
+      }
+    ],
+    metoder: [
+      {
+        name: "Opplæringskontoret for Vekstbedrifter i Østfold - OKvekst",
+        url: "http://okvekst.no",
+        description: [
+          "OKvekst er et samarbeidsorgan der flere godkjente lærebedrifter samarbeider om ",
+          "opplæringen av sine lærlinger og lærekandidater. "
+        ]
+      },
+      {
+        name: "Oktav",
+        url: "http://oktav.no/#minemuligheter",
+        description: [
+          "Opplæringskontoret Oktav stiller med en rekke tilbud innen VTA, alt fra anleggsgartner ",
+          "til yrkessjåfør. "
+        ]
+      },
+      {
+        name: "ASVLs side om lærekandidatordningen",
+        url:
+          "https://asvl.no/asvl/medlemssider/tiltaksmodeller_og_tjenestetilbud/fylke/larekandidatordningen/",
+        description: [
+          "ASVLs modell for lærekandidatordningen, med trinnvis beskrivelse av hvordan man kan ",
+          "bygge opp et godt tilbud som er i tråd med krav, forskrifter, og forventninger. "
+        ]
+      },
+      {
+        name: "Kardes Nettressurser",
+        url: "http://www.karde.no/nettressurser",
+        description: [
+          "Karde har samlet nettressurser relevant for blant annet lærekandidatordningen."
+        ]
+      },
+      {
+        name: "Kardes E-læring",
+        url: "http://www.karde.no/produkter/e-laering",
+        description: [
+          "Kardes samling av E-læring relevant for blant annet lærekandidatordningen. "
         ]
       }
     ]
@@ -637,7 +645,7 @@ export const db = [
         name: "Motvirker eksklusjon",
         url: "https://kavlifondet.no/2017/04/motvirker-eksklusjon/",
         description: [
-          "Artikkel fra Kavlifondet om språkopplæring , viser til at ",
+          "Artikkel fra Kavlifondet om språkopplæring, viser til at ",
           "man i tillegg til å oppnå viktige språkkunnskaper, kan bli ",
           "bedre integrert ved å få et større nettverk, og føler seg ",
           "generelt mer inkludert. "
