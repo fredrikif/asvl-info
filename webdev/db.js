@@ -534,6 +534,24 @@ export const db = [
         ]
       },
       {
+        name: "NAVs kravspesifikasjon for tiltak i skjermede virksomheter",
+        url: "https://www.nav.no/_attachment/87667",
+        description: [
+          "NAVs krav til VTA. Er for tiden under revisjon, det vil trolig komme ny ",
+          "kravspesifikasjon i løpet av 2019. Kravspesifikasjonen omhandler krav til ",
+          "tiltaksarrangør vedrørende rutiner, faglig innhold og metoder, og rapportering. "
+        ]
+      },
+      {
+        name: "NAVs regler vedrørende VTA",
+        url:
+          "https://www.nav.no/rettskildene/Rundskriv/hovednr.76-12-utfyllende-regler-til-arbeids-og-velferdsetatens-anvendelse-av-forskrift-om-arbeidsmarkedstiltak#kapittel-fjorten",
+        description: [
+          "NAVs regler dekker blant annet tiltakets innhold, VTA i skjermet og ordinær virksomhet, ",
+          "og ansettelsesforhold. "
+        ]
+      },
+      {
         name: "NAKUs beskrivelse av VTA",
         url: "https://naku.no/kunnskapsbanken/varig-tilrettelagt-arbeid-vta",
         description: [
@@ -551,6 +569,24 @@ export const db = [
           "'Ambisjon om at så mange som mulig skal få delta i arbeidslivet og bruke evnene ",
           "sine', sa arbeids- og sosialminister Anniken Hauglie. Antallet plasser for VTA ",
           "har hatt stabil økning de siste årene. "
+        ]
+      },
+      {
+        name: "HELT MED - informasjon",
+        url: "https://heltmed.org/arbeidsplassene/",
+        description: [
+          "Informasjon om HELT MED, et prosjekt hvor arbeidsgivere ansetter personer med ",
+          "utviklingshemming som ekstra arbeidskraft for blant annet økt fortjeneste, og ",
+          "lavere turnover. "
+        ]
+      },
+      {
+        name: "HELT MED - resultater",
+        url: "https://heltmed.org/resultater/",
+        description: [
+          "Resultatene fra HELT MED, i 2018 ble det opprettet 45 nye arbeidsplasser for ",
+          "mennesker med utviklingshemming i HELT MED ordningen. I løpet av 2019 er det ",
+          "målsetting om å ha opprettet 80 HELT MED arbeidsplasser. "
         ]
       }
     ],
@@ -601,39 +637,60 @@ export const db = [
     ],
     metoder: [
       {
-        name: "NAVs kravspesifikasjon for tiltak i skjermede virksomheter",
-        url: "https://www.nav.no/_attachment/87667",
-        description: [
-          "NAVs krav til VTA. Er for tiden under revisjon, det vil trolig komme ny ",
-          "kravspesifikasjon i løpet av 2019. Kravspesifikasjonen omhandler krav til ",
-          "tiltaksarrangør vedrørende rutiner, faglig innhold og metoder, og rapportering. "
-        ]
-      },
-      {
-        name: "NAVs regler vedrørende VTA",
+        name: "ASVLs modell for VTA",
         url:
-          "https://www.nav.no/rettskildene/Rundskriv/hovednr.76-12-utfyllende-regler-til-arbeids-og-velferdsetatens-anvendelse-av-forskrift-om-arbeidsmarkedstiltak#kapittel-fjorten",
+          "https://asvl.no/asvl/medlemssider/tiltaksmodeller_og_tjenestetilbud/nav/vta/",
         description: [
-          "NAVs regler dekker blant annet tiltakets innhold, VTA i skjermet og ordinær virksomhet, ",
-          "og ansettelsesforhold. "
+          "ASVLs metodikk for VTA. Inneholder utfyllende informasjon om metodikk for ",
+          "gjennomføring av VTA. "
         ]
       },
       {
-        name: "Veileder for AFT og VTA, 2016",
-        url: "asvl/aft/veileder_aft_vta_2016.pdf",
+        name: "Kardes Nettressurser",
+        url: "http://www.karde.no/nettressurser",
         description: [
-          "NAVs veileder for AFT og VTA fra 2016, beskriver hva som skal til for at ",
-          "en bedrift skal kunne godkjennes for å arrangere tiltakene VTA og AFT. "
+          "Kardes samling av nettressurser består av ulike nettsider Karde har vært med på å utvikle."
         ]
       },
       {
-        name: "VTA bransjestandard",
-        url:
-          "https://www.arbeidoginkludering.no/contentassets/8776984febfe4608b87dc33f255994a2/bransjestandard-vta.pdf",
+        name: "Kardes E-læring",
+        url: "http://www.karde.no/produkter/e-laering",
         description: [
-          "Arbeid og Inkludering sin bransjestandard for varig tilrettelagt arbeid. ",
-          "Standarden hva som kreves av en bedrift innenfor tiltaket varig tilrettelagt arbeid ",
-          "- VTA. "
+          "Kardes E-læring består av diverse opplæringsfilmer og kurs, om blant annet ",
+          "sunn og god matlaging, fysisk aktivitet, og smarte løsninger i hjemmet, for personer ",
+          "med utviklingshemning eller demens. "
+        ]
+      },
+      {
+        name: "Opplæringskontoret for Vekstbedrifter i Østfold - OKvekst",
+        url: "http://okvekst.no",
+        description: [
+          "OKvekst er et samarbeidsorgan der flere godkjente lærebedrifter samarbeider om ",
+          "opplæringen av sine lærlinger og lærekandidater. "
+        ]
+      },
+      {
+        name: "Oktav",
+        url: "http://oktav.no/#minemuligheter",
+        description: [
+          "Opplæringskontoret Oktav stiller med en rekke tilbud innen VTA, alt fra anleggsgartner ",
+          "til yrkessjåfør. "
+        ]
+      },
+      {
+        name: "Kompetanse Norges Grunnleggende Ferdigheter",
+        url: "https://www.kompetansenorge.no/Grunnleggende-ferdigheter/",
+        description: [
+          "Kompetanse Norges die for grunnleggende ferdigheter. Inneholder verktøy innenfor ",
+          "blant annet lesing og skriving, regning, digitale ferdigheter, og muntlige ferdigheter. "
+        ]
+      },
+      {
+        name: "Kompetanse Norges Karriereveiledning",
+        url: "https://www.kompetansenorge.no/Karriereveiledning/",
+        description: [
+          "Kompetanse Norges side for karriereveiledning. Inneholder informasjon om ",
+          "karriereveiledning, samt gjennomføring og verktøy. "
         ]
       }
     ]
@@ -669,6 +726,15 @@ export const db = [
           "blant annet rettigheter og plikter til deltakelse i introduksjonsprogrammet, ",
           "kommunens ansvar, med mer. "
         ]
+      },
+      {
+        name: "Rundskriv om introduksjonsprogrammet - regjeringen",
+        url:
+          "https://www.regjeringen.no/contentassets/4b44b3ea29554b4aa1e9169829b75b78/g-01-2016.pdf",
+        description: [
+          "Regjeringens rundskriv om introduksjonsprogrammet fra 2016 inneholder utfyllende informasjon ",
+          "om programmet. "
+        ]
       }
     ],
     studier: [
@@ -680,6 +746,18 @@ export const db = [
           "norskopplæring for innvandrere, fra 41552 i 2016 til 44165 i 2017. ",
           "Nedgang i antall asylsøkere i norskopplæring, trolig grunnet økt antall ",
           "asylsøkere i 2016 vs 2017. "
+        ]
+      },
+      {
+        name: "Språkopplæring for voksne innvandrere - metastudie av FHI",
+        url:
+          "https://www.kompetansenorge.no/statistikk-og-analyse/publikasjoner/sprakopplaring-for-voksne-innvandrere-med-lite-eller-ingen-skolegang/",
+        description: [
+          "Rapporten er utarbeidet av Folkehelseinstituttet på oppdrag fra Integrering og ",
+          "mangfoldsdirektoratet - IMDi. Målet med prosjektet var å oppsummere kunnskapsgrunnlaget ",
+          "for effekt av ulike språkopplæringsmetoder rettet mot voksne innvandrere med lite eller ",
+          "ingen skolegang. Hovedkonklusjonen er at det er begrenset dokumentasjon om effektive ",
+          "språkopplæringsmetoder for voksne innvandrere med lite eller ingen skolegang. "
         ]
       },
       {
@@ -776,6 +854,13 @@ export const db = [
     ],
     metoder: [
       {
+        name: "Kompetanse Norges språkopplæringssider",
+        url: "https://www.kompetansenorge.no/Norsk-og-samfunnskunnskap/",
+        description: [
+          "Kompetanse Norge har en rekke verktøy for språklæring for innvandrere. "
+        ]
+      },
+      {
         name: "Cabis integrering på arbeidsplassen",
         url: "asvl/language/cabi_language.pdf",
         description: [
@@ -791,15 +876,6 @@ export const db = [
         description: [
           "Integrerings- og mangfoldsdirektoratets sider om introduksjonsprogrammet. ",
           "Inneholder utfyllende informasjon om programmet og gjennomføringen. "
-        ]
-      },
-      {
-        name: "Rundskriv om introduksjonsprogrammet - regjeringen",
-        url:
-          "https://www.regjeringen.no/contentassets/4b44b3ea29554b4aa1e9169829b75b78/g-01-2016.pdf",
-        description: [
-          "Regjeringens rundskriv om introduksjonsprogrammet fra 2016 inneholder utfyllende informasjon ",
-          "om programmet. "
         ]
       }
     ]
@@ -854,15 +930,6 @@ export const db = [
           "IPS hjelper folk med alvorlige psykiske utfordringer til å være i ",
           "tilrettelagt arbeid. IPS er basert på 8 prinsipper som blir nærmere ",
           "forklart. "
-        ]
-      },
-      {
-        name: "IPS - Opplæring av IPS konsulenter (Arbeid og Inkludering)",
-        url:
-          "https://www.arbeidoginkludering.no/contentassets/63c57f2a1b654476858cdb2faed57158/ips-opplaringavips-konsulenter.pdf",
-        description: [
-          "Arbeid og Inkludering sitt opplæringsskriv for IPS-konsulenter, i samarbeid ",
-          "med NAV, fra 2011. "
         ]
       },
       {
@@ -1085,42 +1152,11 @@ export const db = [
           "IPS-Norges stillingsbeskrivelse for stilling som metodeveileder gir innsyn i hvordan man kan ",
           "gjennomføre vellykkede IPS-program, med høy sysselsettingsrate. "
         ]
-      },
-      {
-        name: "Ringer i Vannet - FAFOs rapport",
-        url: "asvl/ips/ringer_i_vannet_fafo_2015.pdf",
-        description: [
-          "Ringer i Vannet er en av Næringslivets Hovedorganisasjons (NHO) rekrutteringsstrategier ",
-          "innenfor inkluderingsarbeid. Målsettingen med prosjektet er å involvere personer med ",
-          "redusert arbeidsevne i større grad enn tidligere, ved å legge til rette for et mer forpliktende ",
-          "arbeid mellom attføringsbedrifter og arbeidsgivere. Opprinnelig prosjekt fra 2012 til 2015, ",
-          "har senere blitt fornyet i form av Ringer i Vannet 2 (2019 - 2020). "
-        ]
-      },
-      {
-        name: "HELT MED - for arbeidsgivere",
-        url:
-          "https://static1.squarespace.com/static/5ae388f1a9e02804584a4b4b/t/5b3492fb1ae6cf453dc70791/1530172160668/04+Vil+dere+bli+HELT+MED-arbeidsgiver.pdf",
-        description: [
-          "Informasjon om hva som kreves av arbeidsgivere, og hvilke fordeler man kan dra av å bli ",
-          "en HELT MED-arbeidsplass. "
-        ]
-      },
-      {
-        name: "HELT MED - modell",
-        url:
-          "https://static1.squarespace.com/static/5ae388f1a9e02804584a4b4b/t/5b3493342b6a28b9ba4a10a2/1530172224825/02+HELT+MED-modellen.pdf",
-        description: [
-          "Utfyllende informasjon om metodikken som ligger bak HELT MED. Består av tre deler: <br />",
-          "Bakgrunn og målgruppe for prosjektet <br />",
-          "Beskrivelse av modell og framgangsmåte <br />",
-          "HELT MED trinn for trinn"
-        ]
       }
     ]
   },
   {
-    name: "Syns- og språkhemning",
+    name: "Tilretteleggingsverktøy",
     informasjon: [
       {
         name: "Arbeidsliv og karriere",
@@ -1176,14 +1212,11 @@ export const db = [
     name: "Nyttige sider / verktøy",
     informasjon: [
       {
-        name: "Veiviseren.no",
-        url: "https://www.veiviseren.no",
+        name: "Veiviseren",
+        url: "http://www.marie-lisbet.no/?page_id=70",
         description: [
-          "Veiviseren er en digital verktøykasse med sammensatte tjenester ",
-          "relatert til bolig. Inneholder blant annet temaer som: kommunal ",
-          "planlegging, bosetting av vanskeligstilte, integrering, innovasjon ",
-          "oppfølgende tjenester og arbeidet knyttet til sårbare overganger fra ",
-          "fengsel, barnevern, og helseinstitusjoner. "
+          "Veiviseren inneholder lese- og skrivetest, tester for auditivt- og visuelt korttidsminne. ",
+          "samt program for trening av grunnleggende lese- og skriveferdigheter, og tall- og klokkebehandling. "
         ]
       },
       {
