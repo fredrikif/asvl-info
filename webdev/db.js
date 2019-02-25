@@ -397,6 +397,22 @@ export const db = [
           "Inneholder læreplaner fra forsøket med praksisbrev, samt mal for læreplan ",
           "og diplom for praksisbrev. "
         ]
+      },
+      {
+        name: "Snakk om rus - kartleggingsverktøy",
+        url: "https://rop.no/snakkomrus/kartleggingsverktoy/",
+        description: [
+          "ROP.nos kartleggingsverktøyside om rus. Elektroniske verktøy for å ",
+          "kartlegge bruken av alkohol og andre rusmidler som grunnlag for samtaler. "
+        ]
+      },
+      {
+        name: "Veiviseren",
+        url: "http://www.marie-lisbet.no/?page_id=70",
+        description: [
+          "Veiviseren inneholder lese- og skrivetest, tester for auditivt- og visuelt korttidsminne. ",
+          "samt program for trening av grunnleggende lese- og skriveferdigheter, og tall- og klokkebehandling. "
+        ]
       }
     ]
   },
@@ -569,6 +585,14 @@ export const db = [
           "'Ambisjon om at så mange som mulig skal få delta i arbeidslivet og bruke evnene ",
           "sine', sa arbeids- og sosialminister Anniken Hauglie. Antallet plasser for VTA ",
           "har hatt stabil økning de siste årene. "
+        ]
+      },
+      {
+        name: "Utdanningsdirektoratet",
+        url: "https://www.udir.no/laring-og-trivsel/lareplanverket/",
+        description: [
+          "Utdanningsdirektoratet har ansvaret for utviklingen av barnehage, grunnskole, ",
+          "og videregående opplæring. "
         ]
       },
       {
@@ -1159,7 +1183,7 @@ export const db = [
     name: "Tilretteleggingsverktøy",
     informasjon: [
       {
-        name: "Arbeidsliv og karriere",
+        name: "Tilrettelegging for svaksynte og blinde",
         url:
           "https://www.blindeforbundet.no/rad-tips-og-rettigheter/arbeidsliv-og-karriere",
         description: [
@@ -1209,42 +1233,8 @@ export const db = [
     ]
   },
   {
-    name: "Nyttige sider / verktøy",
+    name: "Forskningsinstitusjoner",
     informasjon: [
-      {
-        name: "Veiviseren",
-        url: "http://www.marie-lisbet.no/?page_id=70",
-        description: [
-          "Veiviseren inneholder lese- og skrivetest, tester for auditivt- og visuelt korttidsminne. ",
-          "samt program for trening av grunnleggende lese- og skriveferdigheter, og tall- og klokkebehandling. "
-        ]
-      },
-      {
-        name: "Ups & Downs Oslo",
-        url: "http://www.upsanddownsoslo.no",
-        description: [
-          "Ups & Downs Oslo er en av mange foreninger for familier til barn med ",
-          "Downs Syndrom i Norge. Foreningens mål er å fremme sosial kontakt og ",
-          "være et nettverk for sine medlemmer gjennom faglige og sosiale aktiviteter. "
-        ]
-      },
-      {
-        name: "Snakk om rus - kartleggingsverktøy",
-        url: "https://rop.no/snakkomrus/kartleggingsverktoy/",
-        description: [
-          "ROP.nos kartleggingsverktøyside om rus. Elektroniske verktøy for å ",
-          "kartlegge bruken av alkohol og andre rusmidler som grunnlag for samtaler. "
-        ]
-      },
-      {
-        name: "Nasjonalt Kompetansemiljø om Utviklingshemming",
-        url: "https://naku.no",
-        description: [
-          "NAKU sin hovedoppgave er å utvikle det faglige grunnlaget for å skape ",
-          "gode levekår for personer med utviklingshemming. NAKU har en stor ",
-          "kunnskapsbank med mye informasjon og forskning. "
-        ]
-      },
       {
         name: "Fontene forskning",
         url: "http://fonteneforskning.no",
@@ -1314,6 +1304,118 @@ export const db = [
         ]
       },
       {
+        name: "Karde",
+        url: "http://www.karde.no",
+        description: [
+          "Karde tilbyr innovasjon, rådgivning, ledelse og utvikling innen IKT til ",
+          "næringslivet, offentlig sektor, samt frivillige organisasjoner og andre ",
+          "virksomheter. "
+        ]
+      }
+    ]
+  },
+  {
+    name: "Interesseorganisasjoner",
+    informasjon: [
+      {
+        name: "Ups & Downs Oslo",
+        url: "http://www.upsanddownsoslo.no",
+        description: [
+          "Ups & Downs Oslo er en av mange foreninger for familier til barn med ",
+          "Downs Syndrom i Norge. Foreningens mål er å fremme sosial kontakt og ",
+          "være et nettverk for sine medlemmer gjennom faglige og sosiale aktiviteter. "
+        ]
+      },
+      {
+        name: "Nasjonalt Kompetansemiljø om Utviklingshemming",
+        url: "https://naku.no",
+        description: [
+          "NAKU sin hovedoppgave er å utvikle det faglige grunnlaget for å skape ",
+          "gode levekår for personer med utviklingshemming. NAKU har en stor ",
+          "kunnskapsbank med mye informasjon og forskning. "
+        ]
+      },
+      {
+        name: "Kompetanse Norge",
+        url: "https://www.kompetansenorge.no",
+        description: [
+          "Kompetanse Norge jobber for at voksne både i og utenfor arbeidslivet skal ",
+          "få den kompetansen de trenger. De samler kunnskap og gir anbefalinger til ",
+          "myndighetene og andre aktører for å sikre videreutvikling av kompetansepolitikken. "
+        ]
+      },
+      {
+        name: "Stiftelsen SOR",
+        url: "http://www.samordningsradet.no",
+        description: [
+          "Samordningsrådet arbeider med informasjons- og kompetanseformidling, ",
+          "fagutvikling, og sosialpolitiske innspill, med særlig fokus på holdningsarbeid ",
+          "og bevisstgjøring om utfordringer og utviklingsmuligheter for funksjonshemmede. "
+        ]
+      },
+      {
+        name: "Psykisk Helse",
+        url: "https://www.psykiskhelse.no",
+        description: [
+          "Rådet for psykisk helse er en paraplyorganisasjon som jobber for et ",
+          "samfunn som bidrar til god psykisk helse for alle. Jobber blant annet med ",
+          "inkluderende arbeidsliv og forebygging av psykiske helseplager. "
+        ]
+      },
+      {
+        name: "Idébanken",
+        url: "https://www.idebanken.org",
+        description: [
+          "Idébanken er et virkemiddel som skal bidra til å nå måla i ",
+          "intensjonsavtalen om et mer inkluderende arbeidsliv (IA-avtalen). ",
+          "Idébankens oppgave er å heve IA-kompetansen i norsk arbeidsliv gjennom ",
+          "formidling av gode eksempler, forskning, og annen kunnskap. "
+        ]
+      },
+      {
+        name: "Unge funksjonshemmede",
+        url: "https://ungefunksjonshemmede.no",
+        description: [
+          "Unge funksjonshemmede er en paraplyorganisasjon for 37 organisasjoner ",
+          "og grupperinger av ungdom med funksjonshemning og kronisk sykdom. ",
+          "Deres formål er å sikre deltakelse og samfunnsmessig likestilling for ",
+          "unge mellom 12 og 36 år med funksjonshemninger og kronisk sykdom. ",
+          "De jobber også med kunnskapsinnhenting og kunnskapsspredning om tema ",
+          "som er viktige for å sikre likestilling og deltakelse. "
+        ]
+      },
+      {
+        name: "Norsk Forbund for Utviklingshemmede",
+        url: "http://www.nfunorge.org",
+        description: [
+          "NFU er en viktig pådriver for å bedre levekårene for mennesker med ",
+          "utviklingshemming. "
+        ]
+      },
+      {
+        name: "Supported Employment Norge - SENO",
+        url: "http://seno.no",
+        description: [
+          "SENO er en uavhengig interesseorganisasjon med formål å fremme og utvikle ",
+          "fagområdet Supported Employment i Norge og internasjonalt. SENO er en ",
+          "interesseorganisasjon for alle som jobber med arbeidsinkludering i sitt daglige ",
+          "arbeid. "
+        ]
+      },
+      {
+        name: "Arbeid & Inkludering",
+        url: "https://www.arbeidoginkludering.no",
+        description: [
+          "Bransjeforeningen Arbeid & Inkludering er fagutviklings- og interesseorganisasjon ",
+          "for ca 115 arbeidsinkluderingsbedrifter. "
+        ]
+      }
+    ]
+  },
+  {
+    name: "Samarbeidsorganisasjoner",
+    informasjon: [
+      {
         name: "Produktionsskolen i Greve og Høje Taastrup",
         url: "http://www.produktionsskole.dk",
         description: [
@@ -1380,86 +1482,14 @@ export const db = [
         ]
       },
       {
-        name: "Helsedirektoratet",
-        url: "https://helsedirektoratet.no",
+        name: "UngInvest AIB i Drammen",
+        url: "http://www.aib.bfk.no/AI-Drammen/",
         description: [
-          "Helsedirektoratet skal styrke hele befolkningens helse gjennom helhetlig ",
-          "og målrettet arbeid på tvers av tjenester, sektorer og forvaltningsnivå. ",
-          "Inneholder blant annet informasjon, veiledere, statistikk, og analyse. "
-        ]
-      },
-      {
-        name: "Utdanningsdirektoratet",
-        url: "https://www.udir.no",
-        description: [
-          "Utdanningsdirektoratet har ansvaret for utviklingen av barnehage, grunnskole, ",
-          "og videregående opplæring. "
-        ]
-      },
-      {
-        name: "Kompetanse Norge",
-        url: "https://www.kompetansenorge.no",
-        description: [
-          "Kompetanse Norge jobber for at voksne både i og utenfor arbeidslivet skal ",
-          "få den kompetansen de trenger. De samler kunnskap og gir anbefalinger til ",
-          "myndighetene og andre aktører for å sikre videreutvikling av kompetansepolitikken. "
-        ]
-      },
-      {
-        name: "Stiftelsen SOR",
-        url: "http://www.samordningsradet.no",
-        description: [
-          "Samordningsrådet arbeider med informasjons- og kompetanseformidling, ",
-          "fagutvikling, og sosialpolitiske innspill, med særlig fokus på holdningsarbeid ",
-          "og bevisstgjøring om utfordringer og utviklingsmuligheter for funksjonshemmede. "
-        ]
-      },
-      {
-        name: "Psykisk Helse",
-        url: "https://www.psykiskhelse.no",
-        description: [
-          "Rådet for psykisk helse er en paraplyorganisasjon som jobber for et ",
-          "samfunn som bidrar til god psykisk helse for alle. Jobber blant annet med ",
-          "inkluderende arbeidsliv og forebygging av psykiske helseplager. "
-        ]
-      },
-      {
-        name: "Idébanken",
-        url: "https://www.idebanken.org",
-        description: [
-          "Idébanken er et virkemiddel som skal bidra til å nå måla i ",
-          "intensjonsavtalen om et mer inkluderende arbeidsliv (IA-avtalen). ",
-          "Idébankens oppgave er å heve IA-kompetansen i norsk arbeidsliv gjennom ",
-          "formidling av gode eksempler, forskning, og annen kunnskap. "
-        ]
-      },
-      {
-        name: "Karde",
-        url: "http://www.karde.no",
-        description: [
-          "Karde tilbyr innovasjon, rådgivning, ledelse og utvikling innen IKT til ",
-          "næringslivet, offentlig sektor, samt frivillige organisasjoner og andre ",
-          "virksomheter. "
-        ]
-      },
-      {
-        name: "Unge funksjonshemmede",
-        url: "https://ungefunksjonshemmede.no",
-        description: [
-          "Unge funksjonshemmede er en paraplyorganisasjon for 37 organisasjoner ",
-          "og grupperinger av ungdom med funksjonshemning og kronisk sykdom. ",
-          "Deres formål er å sikre deltakelse og samfunnsmessig likestilling for ",
-          "unge mellom 12 og 36 år med funksjonshemninger og kronisk sykdom. ",
-          "De jobber også med kunnskapsinnhenting og kunnskapsspredning om tema ",
-          "som er viktige for å sikre likestilling og deltakelse. "
-        ]
-      },
-      {
-        name: "Norsk Forbund for Utviklingshemmede",
-        url: "http://www.nfunorge.org",
-        description: [
-          "NFU er en viktig pådriver for å bedre levekårene for mennesker med ",
-          "utviklingshemming. "
+          "UngInvest AIB kan benyttes av ungdom som ikke synes tradisjonell videregående skole ",
+          "passer er egnet til deres læringsbehov, til ungdom som ikke vet hva de vil bli, og for ",
+          "de som trenger litt ekstra faglig påfyll, for å bedre kunne mestre skolen i etterkant. ",
+          "Hensikten er at alle ungdommer skal finne sin vei i utdanningssystemet og ende opp med ",
+          "jobb, egen inntekt, og et godt liv. "
         ]
       }
     ]
