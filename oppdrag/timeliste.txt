@@ -44,8 +44,9 @@ Andre periode:
 1.5   -   21.02.19, til og med praksisbrevordningen
 1.0   -   23.02.19, til og med ips
 1.0   -   25.02.19, fullført nyttgie sider / verktøy fra møtet 20.02
+1.0   -   26.02.19, GE, tilretteleggingsverktøy
 -------------------------------------------------------------------
-14.5
+15.5
 
 Totalt:
-35.5
+36.5

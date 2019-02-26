@@ -1192,6 +1192,33 @@ export const db = [
           "det er mulig forsøke å finne løsninger som gjør at du blir værende i ",
           "jobben, eller får andre arbeidsoppgaver. "
         ]
+      },
+      {
+        name: "Arbeidslivsentrene",
+        url:
+          "https://www.nav.no/no/Bedrift/Inkluderende+arbeidsliv/Relatert+informasjon/finn-nav-arbeidslivsenter-i-ditt-fylke",
+        description: [
+          "NAVs Arbeidslivsentre i de ulike fylkene, fungerer blant annet som ressurs- og ",
+          "kompetansesentre for inkluderende arbeidsliv."
+        ]
+      },
+      {
+        name: "Hjelpemiddelsentralen",
+        url:
+          "https://www.nav.no/no/Person/Hjelpemidler/Tjenester+og+produkter/hjelpemiddelsentralen--359477",
+        description: [
+          "Hjelpemiddelsentralen har et overordnet og koordinerende ansvar for hjelpemidler ",
+          "til funksjonshemmede i fylket, og er et ressurs- og kompetansesenter for offentlige ",
+          "instanser og andre som har ansvar for å løse funksjonshemmedes problemer. "
+        ]
+      },
+      {
+        name: "Universell utforming",
+        url: "https://www.bufdir.no/uu/",
+        description: [
+          "Barne-, ungdoms- og familiedirektoratet (Bufdir)s side om universell utforming, for ",
+          "tilrettelegging av ulike funksjonshemninger. "
+        ]
       }
     ],
     metoder: [
