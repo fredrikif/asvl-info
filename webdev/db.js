@@ -122,17 +122,6 @@ export const db = [
           "ressurskrevende og vanskelig å gjennomføre for fattige områder. "
         ]
       }
-    ],
-    metoder: [
-      /*
-      {
-        name: "Lier ASVO",
-        url: "https://lier-asvo.no",
-        description: [
-          "Lier ASVO "
-        ]
-      }
-      */
     ]
   },
   {
@@ -550,12 +539,10 @@ export const db = [
         ]
       },
       {
-        name: "NAVs kravspesifikasjon for tiltak i skjermede virksomheter",
-        url: "https://www.nav.no/_attachment/87667",
+        name: "NAVs kravspesifikasjon for VTA",
+        url: "asvl/vta/Kravspesifikasjon_VTA.pages",
         description: [
-          "NAVs krav til VTA. Er for tiden under revisjon, det vil trolig komme ny ",
-          "kravspesifikasjon i løpet av 2019. Kravspesifikasjonen omhandler krav til ",
-          "tiltaksarrangør vedrørende rutiner, faglig innhold og metoder, og rapportering. "
+          "NAVs kravspesifikasjon for varig tilrettelagt arbeid, nyeste versjon fra februar 2019. "
         ]
       },
       {
