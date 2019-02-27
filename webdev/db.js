@@ -1544,7 +1544,7 @@ export const db = [
         description: [
           "Komparativ studie av arbeidsmarkedspolitikkens styring i Norden, via ",
           "Nordisk Samarbejde, som er et både politisk, økonomisk, og kulturelt samarbeid ",
-          "mellom de nordiske landnene. "
+          "mellom de nordiske landene. "
         ]
       },
       {
