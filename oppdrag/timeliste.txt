@@ -45,8 +45,9 @@ Andre periode:
 1.0   -   23.02.19, til og med ips
 1.0   -   25.02.19, fullført nyttgie sider / verktøy fra møtet 20.02
 1.0   -   26.02.19, GE, tilretteleggingsverktøy
+1.0   -   27.02.19, tilrettelegging for funksjonshemmede - hørsel & syn
 -------------------------------------------------------------------
-15.5
+16.5
 
 Totalt:
-36.5
+37.5

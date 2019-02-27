@@ -1167,7 +1167,7 @@ export const db = [
     ]
   },
   {
-    name: "Tilretteleggingsverktøy",
+    name: "Tilrettelegging for funksjonshemmede",
     informasjon: [
       {
         name: "Tilrettelegging for svaksynte og blinde",
@@ -1178,6 +1178,32 @@ export const db = [
           "Arbeidsgiver er lovpålagt individuell tilrettelegging, og skal så langt ",
           "det er mulig forsøke å finne løsninger som gjør at du blir værende i ",
           "jobben, eller får andre arbeidsoppgaver. "
+        ]
+      },
+      {
+        name: "Tilrettelegging for hørselshemmede - udir",
+        url:
+          "https://www.udir.no/laring-og-trivsel/sarskilte-behov/horselshemmede/",
+        description: [
+          "Utdanningsdirektoratets side for hørselshemmede. Har utfyllende informasjon ",
+          "om hørselshemming, samt ulike former for tilrettelegging. "
+        ]
+      },
+      {
+        name: "Yrkelsaktiv og hørselshemmet - HLF",
+        url: "https://www.hlf.no/horsel/yrkesaktiv-og-horselshemmet/",
+        description: [
+          "Hørselshemmedes Landsforbuds informasjonsside for yrkesaktive hørselshemmede. ",
+          "Nyttig for hørselshemmede, kolleger, og arbeidsgivere. "
+        ]
+      },
+      {
+        name: "Nedsatt hørsel og fysisk tilrettelegging - Staped",
+        url:
+          "http://www.statped.no/fagomrader-og-laringsressurser/horsel/tilrettelegging/horselsnedsettelse-og-fysisk-tilrettelegging/",
+        description: [
+          "Statpeds side om nedsatt hørsel, og fysisk tilrettelegging for å redusere auditiv og ",
+          "visuell bakgrunnsstøy i undervisningsrommene, som også er overførbart til arbeidsliv. "
         ]
       },
       {
@@ -1205,6 +1231,14 @@ export const db = [
         description: [
           "Barne-, ungdoms- og familiedirektoratet (Bufdir)s side om universell utforming, for ",
           "tilrettelegging av ulike funksjonshemninger. "
+        ]
+      },
+      {
+        name: "Talestyrte søk og stying via smarttelefon",
+        url: "http://www.kunnskapsbanken.net/talestyrte-sok-og-styring/",
+        description: [
+          "Informasjon om hvordan man kan bruke smarttelefon til å bistå brukeren med å besvare ",
+          "spørsmål, komme med forslag, eller utføre handlinger. "
         ]
       }
     ],
@@ -1242,6 +1276,41 @@ export const db = [
           "En leselist kan være et godt hjelpemiddel for en synshemmet som behersker ",
           "punktskrift (Braille). Leselisten konverterer data fra en skjermleser til ",
           "punktskrift, slik at man kan lese innholdet med hendene framfor øynene. "
+        ]
+      },
+      {
+        name: "Hjelpemidler for syns- og hørselshemmede - Sansetap",
+        url: "http://eldre.sansetap.no/hjelpemidler-og-tiltak",
+        description: [
+          "Sansetaps side med tiltak for å kompensere for sviktende syn og hørsel. Inneholder ",
+          "informasjon om ulike verktøy man kan benytte seg av ved syns- og hørselshemming, blant ",
+          "annet høreapparat, teleslynge, luper, med mer. "
+        ]
+      },
+      {
+        name: "Tilretteleggingskurs for hørselshemmede i arbeid",
+        url:
+          "https://www.kunnskapsbanken.net/tilrettelegging-for-horselshemmede-i-arbeid/",
+        description: [
+          "E-læringskurs fra kunnskapsbanken om hvordan man kan tilrettelegge arbeidsplassen ",
+          "for hørselshemmede så de kan få en likestilt deltakelse i arbeidslivet. "
+        ]
+      },
+      {
+        name: "Grunnkurs syn: e-læringskurs for synskontakter",
+        url: "https://www.kunnskapsbanken.net/grunnkurs-syn/",
+        description: [
+          "Kunnskapsbankens e-læringskurs om syn, nyttig for blant annet synshemmede, ",
+          "deres pårørende, og personer som skal tilrettelegge for synshemmede. "
+        ]
+      },
+      {
+        name: "Grunnkurs hørsel: e-læringskurs for hørselskontakter",
+        url:
+          "http://www.kunnskapsbanken.net/grunnopplaering-for-horselskontakter-i-kommunen/",
+        description: [
+          "Kunnskapsbankens e-læringskurs om hørsel, nyttig for blant annet hørselshemmede, ",
+          "deres pårørende, og personer som skal tilrettelegge for hørselshemmede. "
         ]
       }
     ]
@@ -1347,6 +1416,14 @@ export const db = [
           "NAKU sin hovedoppgave er å utvikle det faglige grunnlaget for å skape ",
           "gode levekår for personer med utviklingshemming. NAKU har en stor ",
           "kunnskapsbank med mye informasjon og forskning. "
+        ]
+      },
+      {
+        name: "Kunnskapsbanken",
+        url: "http://www.kunnskapsbanken.net",
+        description: [
+          "Kunnskapsbanken inneholder informasjon og læring for de som er opptatt av ",
+          "funksjonshemming og deltakelse i samfunnet. "
         ]
       },
       {
