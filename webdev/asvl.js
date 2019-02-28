@@ -1,7 +1,7 @@
 import { db } from "./db.js";
 
 const renderNav = db => `
-  <div id="toTheTop" class="navContainer">
+  <nav id="toTheTop" class="navContainer">
   <h1>Navigasjon: </h1>
   ${db
     .map(
@@ -10,7 +10,7 @@ const renderNav = db => `
   `
     )
     .join("")}
-  </div>
+  </nav>
 `;
 
 const renderStudyInfo = (data, studyInfo) => `

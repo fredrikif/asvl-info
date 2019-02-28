@@ -10,6 +10,7 @@ a:link {
   background-color: rgb(200, 200, 200);
   color: rgb(68, 66, 66);
   text-decoration: none;
+  margin-bottom: 1px;
 }
 
 a:visited {
@@ -29,23 +30,24 @@ h1,
 h2 {
   color: #fff;
 }
+
 h2:first-letter {
   text-transform: capitalize;
 }
 
+.navContainer,
 .category {
   background-color: rgb(68, 66, 66);
-  width: 80vw;
+  margin: auto;
   max-width: 600px;
-  margin: 0 auto 2em;
-  border-radius: 5vw;
-  padding: 1em 0 1em 0;
+  border-radius: 2em;
+  padding: 1em 0 2em;
+  margin-bottom: 1em;
 }
 
 .informasjon,
 .studier,
 .metoder {
-  max-width: 95%;
   margin: 1em 1em 1em 1em;
   padding: 0.5em;
   background-color: rgb(200, 200, 200);
@@ -57,15 +59,4 @@ h2:first-letter {
   display: flex;
   justify-content: center;
   text-decoration: none;
-}
-
-.navContainer {
-  background-color: rgb(68, 66, 66);
-  margin: auto;
-  max-width: 600px;
-  width: 80vw;
-  border-radius: 2em;
-  padding: 1em 0 2em;
-  box-sizing: border-box;
-  margin-bottom: 1em;
 }
