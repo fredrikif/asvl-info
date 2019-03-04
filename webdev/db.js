@@ -1401,12 +1401,29 @@ export const db = [
     name: "Interesseorganisasjoner",
     informasjon: [
       {
-        name: "Ups & Downs Oslo",
-        url: "http://www.upsanddownsoslo.no",
+        name: "Ups & Downs",
+        url: "http://www.upsanddowns.info",
         description: [
-          "Ups & Downs Oslo er en av mange foreninger for familier til barn med ",
+          "Ups & Downs har mange foreninger for familier til barn med ",
           "Downs Syndrom i Norge. Foreningens mål er å fremme sosial kontakt og ",
           "være et nettverk for sine medlemmer gjennom faglige og sosiale aktiviteter. "
+        ]
+      },
+      {
+        name: "Norsk Nettverk for Down Syndrom - NNDS",
+        url: "https://nnds.no",
+        description: [
+          "Norsk Nettverk for Down Syndrom er et frittstående nettverk for alle med Down Syndrom",
+          "eller med interesse for Down Syndrom. Samler og sprer informasjon for å øke livskvalitet. "
+        ]
+      },
+      {
+        name: "Oppsiden",
+        url: "https://oppsiden.no",
+        description: [
+          "Oppsiden er et oppslagsverk som ble startet opp av NNDS i 2018. Innholdet skal ",
+          "i hovedsak være fra NNDS' fagråd og kvalitetssikret av spesialister innen de ulike ",
+          "fagområdene. "
         ]
       },
       {

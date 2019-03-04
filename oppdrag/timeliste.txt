@@ -44,11 +44,12 @@ Andre periode:
 1.5   -   21.02.19, til og med praksisbrevordningen
 1.0   -   23.02.19, til og med ips
 1.0   -   25.02.19, fullført nyttgie sider / verktøy fra møtet 20.02
-1.0   -   26.02.19, GE, tilretteleggingsverktøy
+1.0   -   26.02.19, GD, tilretteleggingsverktøy
 1.0   -   27.02.19, tilrettelegging for funksjonshemmede - hørsel & syn
 1.0   -   28.02.19, css & js, forbedret responsiveness
+1.5   -   04.02.19, GD, down syndrom
 -------------------------------------------------------------------
-17.5
+19.0
 
 Totalt:
-38.5
+40
