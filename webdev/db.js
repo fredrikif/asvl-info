@@ -364,6 +364,14 @@ export const db = [
         ]
       },
       {
+        name: "Netpeds kartlegging",
+        url: "http://www.netped.no/index.php/kartlegging",
+        description: [
+          "Netped tilbyr kartlegging rundt lærevansker, i tillegg til gjennomføring av ",
+          "basiskompetansekurs til ASVL-bedrifter. "
+        ]
+      },
+      {
         name: "Kompetanse Norges Test Deg Selv",
         url: "https://www.kompetansenorge.no/test-deg-selv/",
         description: [
