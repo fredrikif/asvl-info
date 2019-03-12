@@ -48,9 +48,9 @@ Andre periode:
 1.0   -   27.02.19, tilrettelegging for funksjonshemmede - hørsel & syn
 1.0   -   28.02.19, css & js, forbedret responsiveness
 1.5   -   04.02.19, GD, down syndrom
-1.0   -   12.02.19, funksjonshemminger
+1.5   -   12.03.19, funksjonshemminger
 -------------------------------------------------------------------
-12.0
+20
 
 Totalt:
 41
