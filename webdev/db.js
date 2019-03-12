@@ -1248,6 +1248,32 @@ export const db = [
           "Informasjon om hvordan man kan bruke smarttelefon til å bistå brukeren med å besvare ",
           "spørsmål, komme med forslag, eller utføre handlinger. "
         ]
+      },
+      {
+        name: "Overvekt og fedme",
+        url:
+          "https://helsedirektoratet.no/Documents/Publikasjonsvedlegg/IS-1592-aktivitetshandboken-kapittel-35-overvekt-og-fedme.pdf",
+        description: [
+          "Informasjon fra aktivitetsboken til helsedirektoratet om overvekt og fedme, og. ",
+          "hvordan man kan tilnærme seg disse tilstandene. Forbruk og inntak av næring utgjør ",
+          "energibalansen, som kroppsvekten er et direkte resultat av. Om man har større inntak enn ",
+          "forbruk, vil man legge på seg. Små forbedringer, som økning av forbruket på 50-100 kcal ",
+          "per dag er av typen endring som kan vedvare på lang sikt. "
+        ]
+      }
+    ],
+    studier: [
+      {
+        name:
+          "Arbeid som integrert del av framtidens helsetjeneste for sykelige overvektige",
+        url: "https://www.nav.no/no/Person/_attachment/537351",
+        description: [
+          "Studie om overvektige og arbeid fra Muritunet finansiert med FoU-midler fra NAV. ",
+          "Studien undersøkte om livsstilsintervensjon med og uten arbeidsintervensjon kunne ",
+          "bidra til endring i arbeidsdeltakelse og livskvalitet. Intervensjon med arbeid førte til ",
+          "større vektnedgang, og større tro på egen evne til å møte jobbkrav, enn gruppen uten ",
+          "arbeidsintervensjon. "
+        ]
       }
     ],
     metoder: [
