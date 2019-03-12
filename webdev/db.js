@@ -1250,6 +1250,14 @@ export const db = [
         ]
       },
       {
+        name: "Overvekt - helsenorge",
+        url: "https://helsenorge.no/kosthold-og-ernaring/overvekt",
+        description: [
+          "Helsenorges.nos side om overvekt, med informasjon om hvordan man kan forebygge og redusere ",
+          "overvekt. "
+        ]
+      },
+      {
         name: "Overvekt og fedme",
         url:
           "https://helsedirektoratet.no/Documents/Publikasjonsvedlegg/IS-1592-aktivitetshandboken-kapittel-35-overvekt-og-fedme.pdf",
