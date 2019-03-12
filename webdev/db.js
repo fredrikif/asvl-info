@@ -1250,6 +1250,16 @@ export const db = [
         ]
       },
       {
+        name:
+          "Nasjonale retningslinjer for forebygging, utredning, og behandling av overvekt og fedme hos voksne",
+        url:
+          "https://helsedirektoratet.no/Lists/Publikasjoner/Attachments/390/nasjonal-faglig-retningslinje-for-forebygging-utredning-og-behandling-av-overvekt-og-fedme-hos-voksne.pdf",
+        description: [
+          "Helsedirektoratets nasjonale retningslinjer inneholder blant annet informasjon om ",
+          "forebygging, utredning, og behandling. "
+        ]
+      },
+      {
         name: "Overvekt - helsenorge",
         url: "https://helsenorge.no/kosthold-og-ernaring/overvekt",
         description: [
