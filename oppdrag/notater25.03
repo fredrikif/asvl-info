@@ -3,6 +3,7 @@ forskning: https://www.forskningsradet.no/servlet/Satellite?c=Page&pagename=vam%
 
 "kunnskapsbase"
 
-?module=Files&action=File.getFile&ID=
 
 neste: test inline css
+
+?module=Files&action=File.getFile&ID=
