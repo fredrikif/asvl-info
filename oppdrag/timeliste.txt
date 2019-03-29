@@ -59,9 +59,10 @@ Tredje periode:
 1.0   -   25.03.19, møte med asvl
 2.0   -   27.03.19, bli kjent med idiums portal, aktivitetsplikt & kvp
 2.0   -   28.03.19, aft til og med samarbeidsorganisasjoner
+1.0   -   29.03.19, E-læring og korrektur, debug fra i går
 -------------------------------------------------------------------
-7
+8
 -------------------------------------------------------------------
 
 Totalt:
-46.5
+47.5
