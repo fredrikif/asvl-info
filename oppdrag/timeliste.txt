@@ -60,9 +60,10 @@ Tredje periode:
 2.0   -   27.03.19, bli kjent med idiums portal, aktivitetsplikt & kvp
 2.0   -   28.03.19, aft til og med samarbeidsorganisasjoner
 1.0   -   29.03.19, E-læring og korrektur, debug fra i går
+0.5   -   01.04.19, feilsøk, oppdatering av info fra regjering og kartlegging av interesser
 -------------------------------------------------------------------
-8
+8.5
 -------------------------------------------------------------------
 
 Totalt:
-47.5
+48.0
