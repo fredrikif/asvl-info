@@ -50,7 +50,8 @@ export const db = [
       },
       {
         name: "Gudbrandsdølen Dagningen - Ringsaker aktivitetsplikt",
-        url: "asvl/aktivitetsplikt/gd_ringsaker.pdf",
+        url:
+          "asvl/aktivitetsplikt/nyhetsartikkel_gd_ringsaker_aktivitetsplikt.pdf",
         description: [
           "Nyhetsartikkel fra GD om aktivitetsplikt i Ringsaker. ",
           "70 til 85 prosent av deltakerne i Ringsaker har fra 2016 kommet seg ut ",
@@ -349,7 +350,7 @@ export const db = [
     metoder: [
       {
         name: "Kartlegging av interesser",
-        url: "asvl/aft/Veivalg.pages",
+        url: "asvl/aft/aft_veivalg-kartleggin-av-interesser.pages",
         description: [
           "Interessekartlegger som brukes i forbindelse med karriereveiledning og ",
           "arbeidsforberedende trening. "
@@ -881,7 +882,7 @@ export const db = [
       },
       {
         name: "Cabis integrering på arbeidsplassen",
-        url: "asvl/language/cabi_language.pdf",
+        url: "asvl/language/cabi_language_integrering-paa-arbeidsplassen.pdf",
         description: [
           "Cabi er en dansk idell organisasjon som gir råd og inspirasjon til virksomheter og ",
           "kommuner, som jobber med arbeidsinkludering og integrering. Denne informasjonsplakaten ",
@@ -1097,7 +1098,7 @@ export const db = [
       },
       {
         name: "Supported Employment Kvalitetsverktøy - SEQF",
-        url: "asvl/ips/seqf_2017.pdf",
+        url: "asvl/ips/supported_employment_kvalitetssikring_seqf_2017.pdf",
         description: [
           "Kvalitetsverktøy for Supported Employment utviklet av blant annet norske SENO, ",
           "i samarbeid med europeiske SE-organisasjoner. Bidrar til kvalitetssikring og ",
@@ -1106,7 +1107,7 @@ export const db = [
       },
       {
         name: "Europeiske Union Supported Employment - EUSAs verktøykasse",
-        url: "asvl/ips/eusetoolkit.pdf",
+        url: "asvl/ips/supported_employment_veileder_euse-toolkit.pdf",
         description: [
           "EUSA ble opprettet for å utvikle Supported Employment i Europa, ettersom forskning har vist ",
           "manglende konsistens i SE-arbeidet, samt for lite veiledning og opplæringsmateriell for ",
