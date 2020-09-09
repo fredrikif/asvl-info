@@ -71,7 +71,7 @@ summary {
 @keyframes open {
   0% {
     transform: 0%;
-    opacity: 0;
+    opacity: 0.5;
   }
   100% {
     opacity: 1;
@@ -80,5 +80,5 @@ summary {
 }
 
 details[open] summary ~ * {
-  animation: open 0.7s ease-in-out;
+  animation: open 0.5s ease-in-out;
 }
